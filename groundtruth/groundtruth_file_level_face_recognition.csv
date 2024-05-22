@@ -1,6 +1,0 @@
-test,production
-test_face_recognition,conf
-test_face_recognition,face_recognition_svm
-test_face_recognition,api
-test_face_recognition,face_recognition_cli
-test_face_recognition,face_detection_cli

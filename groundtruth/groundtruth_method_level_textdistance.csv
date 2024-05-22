@@ -1,6 +1,0 @@
-test,production
-test_smith_waterman.test_distance_matrix,simple.maximum
-test_lcsseq.test_distance,libraries.prepare
-test_entropy_ncd.test_similarity,token_based.maximum
-test_entropy_ncd.test_normalization_range,base.normalized_distance
-test_bag.test_distance,simple.maximum
