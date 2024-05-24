@@ -1,0 +1,46 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_urlutils.py", 
+"module list": [
+["module": "test_urlutils", 
+"module root": "F:\myPythonProjects\projects_new\boltons\tests\test_urlutils.py", 
+"call deep": [3, 7, 0], 
+"call frequency": 3, 
+"other test module call this production": [
+] 
+],
+["module": "urlutils", 
+"module root": "F:\myPythonProjects\projects_new\boltons\boltons\urlutils.py", 
+"call deep": [1, 2, 3, 4, 5, 6, 7, 11, 12, 13], 
+"call frequency": 10, 
+"other test module call this production": [
+] 
+],
+["module": "typeutils", 
+"module root": "F:\myPythonProjects\projects_new\boltons\boltons\typeutils.py", 
+"call deep": [12, 13], 
+"call frequency": 2, 
+"other test module call this production": [
+["module": "F:\myPythonProjects\projects_new\boltons\tests\test_cacheutils.py"],
+["module": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py"],
+["module": "F:\myPythonProjects\projects_new\boltons\tests\test_dictutils.py"],
+["module": "F:\myPythonProjects\projects_new\boltons\tests\test_funcutils.py"],
+["module": "F:\myPythonProjects\projects_new\boltons\tests\test_iterutils.py"],
+["module": "F:\myPythonProjects\projects_new\boltons\tests\test_listutils.py"],
+["module": "F:\myPythonProjects\projects_new\boltons\tests\test_queueutils.py"],
+["module": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py"],
+["module": "F:\myPythonProjects\projects_new\boltons\tests\test_socketutils.py"],
+["module": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py"],
+["module": "F:\myPythonProjects\projects_new\boltons\tests\test_typeutils.py"],
+] 
+],
+["module": "dictutils", 
+"module root": "F:\myPythonProjects\projects_new\boltons\boltons\dictutils.py", 
+"call deep": [1, 2, 3, 4, 5, 6, 7, 8], 
+"call frequency": 8, 
+"other test module call this production": [
+["module": "F:\myPythonProjects\projects_new\boltons\tests\test_dictutils.py"],
+["module": "F:\myPythonProjects\projects_new\boltons\tests\test_iterutils.py"],
+] 
+]
+]
+}

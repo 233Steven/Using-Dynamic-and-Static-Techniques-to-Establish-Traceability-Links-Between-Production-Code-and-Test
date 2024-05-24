@@ -1,0 +1,19 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_strutils.py", 
+"module list": [
+["module": "strutils", 
+"module root": "F:\myPythonProjects\projects_new\boltons\boltons\strutils.py", 
+"call deep": [1, 2, 3, 11, 12, 0], 
+"call frequency": 6, 
+"other test module call this production": [
+] 
+],
+["module": "test_strutils", 
+"module root": "F:\myPythonProjects\projects_new\boltons\tests\test_strutils.py", 
+"call deep": [3, 4, -1, 0], 
+"call frequency": 4, 
+"other test module call this production": [
+] 
+]
+]
+}

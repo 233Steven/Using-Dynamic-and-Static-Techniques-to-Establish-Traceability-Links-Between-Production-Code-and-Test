@@ -1,0 +1,20 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_statsutils.py", 
+"module list": [
+["module": "test_statsutils", 
+"module root": "F:\myPythonProjects\projects_new\boltons\tests\test_statsutils.py", 
+"call deep": [3, 0], 
+"call frequency": 2, 
+"other test module call this production": [
+] 
+],
+["module": "statsutils", 
+"module root": "F:\myPythonProjects\projects_new\boltons\boltons\statsutils.py", 
+"call deep": [1, 2, 3, 4, 5, 9, 10, 11], 
+"call frequency": 8, 
+"other test module call this production": [
+["module": "F:\myPythonProjects\projects_new\boltons\tests\test_statsutils_histogram.py"],
+] 
+]
+]
+}
