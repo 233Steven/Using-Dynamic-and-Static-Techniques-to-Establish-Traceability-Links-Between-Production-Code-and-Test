@@ -1,0 +1,118 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py", 
+"test name": "test_table_obj", 
+"metohd list": [
+["method": "tests.test_tableutils.test_table_obj", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py", 
+"method name": "test_table_obj", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tableutils.from_object", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "from_object", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tableutils.ObjectInputType.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "__init__", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_lists"],
+] 
+],
+["method": "boltons.tableutils.from_data", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "from_data", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_dicts"],
+] 
+],
+["method": "boltons.tableutils.ObjectInputType.guess_headers", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "guess_headers", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tableutils.ObjectInputType.get_entry", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "get_entry", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tableutils.Table.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "__init__", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_lists"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_dicts"],
+] 
+],
+["method": "boltons.tableutils.Table.extend", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "extend", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_lists"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_dicts"],
+] 
+],
+["method": "boltons.tableutils.Table._set_width", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "_set_width", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_lists"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_dicts"],
+] 
+],
+["method": "boltons.tableutils.Table._fill", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "_fill", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_lists"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_dicts"],
+] 
+],
+["method": "boltons.tableutils.Table.__len__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "__len__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_lists"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_dicts"],
+] 
+]
+]
+}

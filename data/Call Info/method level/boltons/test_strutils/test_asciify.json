@@ -1,0 +1,30 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_strutils.py", 
+"test name": "test_asciify", 
+"metohd list": [
+["method": "tests.test_strutils.test_asciify", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_strutils.py", 
+"method name": "test_asciify", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.strutils.asciify", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\strutils.py", 
+"method name": "asciify", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.strutils.DeaccenterDict.__missing__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\strutils.py", 
+"method name": "__missing__", 
+"call type": "transistively", 
+"call frequency": 6, 
+"other test call this function": [
+] 
+]
+]
+}

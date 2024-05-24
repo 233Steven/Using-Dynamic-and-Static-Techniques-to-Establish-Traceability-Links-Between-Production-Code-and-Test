@@ -1,0 +1,22 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_utils_template.py", 
+"test name": "test_simple_render", 
+"metohd list": [
+["method": "tests.test_utils_template.UtilsRenderTemplateFileTestCase.test_simple_render", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_utils_template.py", 
+"method name": "test_simple_render", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "scrapy.utils.template.render_templatefile", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\scrapy\utils\template.py", 
+"method name": "render_templatefile", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

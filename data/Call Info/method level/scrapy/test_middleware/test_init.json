@@ -1,0 +1,42 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_middleware.py", 
+"test name": "test_init", 
+"metohd list": [
+["method": "tests.test_middleware.MiddlewareManagerTest.test_init", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_middleware.py", 
+"method name": "test_init", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "scrapy.middleware.TestMiddlewareManager.__init__", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\scrapy\middleware.py", 
+"method name": "__init__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_middleware.py",
+"method name": "test_methods"],
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_middleware.py",
+"method name": "test_enabled"],
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_middleware.py",
+"method name": "test_enabled_from_settings"],
+] 
+],
+["method": "scrapy.middleware.TestMiddlewareManager._add_middleware", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\scrapy\middleware.py", 
+"method name": "_add_middleware", 
+"call type": "transistively", 
+"call frequency": 3, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_middleware.py",
+"method name": "test_methods"],
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_middleware.py",
+"method name": "test_enabled"],
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_middleware.py",
+"method name": "test_enabled_from_settings"],
+] 
+]
+]
+}

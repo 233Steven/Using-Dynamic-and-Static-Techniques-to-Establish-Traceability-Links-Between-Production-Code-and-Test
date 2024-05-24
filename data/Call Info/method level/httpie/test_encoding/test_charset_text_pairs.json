@@ -1,0 +1,14 @@
+{
+"test root": "F:\myPythonProjects\projects_new\httpie\tests\test_encoding.py", 
+"test name": "test_charset_text_pairs", 
+"metohd list": [
+["method": "tests.test_encoding.test_charset_text_pairs", 
+"method root": "F:\myPythonProjects\projects_new\httpie\tests\test_encoding.py", 
+"method name": "test_charset_text_pairs", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

@@ -1,0 +1,36 @@
+{
+"test root": "F:\myPythonProjects\projects_new\flask\tests\test_cli.py", 
+"test name": "test_prepare_import", 
+"metohd list": [
+["method": "test_cli.test_prepare_import", 
+"method root": "F:\myPythonProjects\projects_new\flask\tests\test_cli.py", 
+"method name": "test_prepare_import", 
+"call type": "transistively", 
+"call frequency": 10, 
+"other test call this function": [
+] 
+],
+["method": "flask.cli.prepare_import", 
+"method root": "F:\myPythonProjects\projects_new\flask\src\flask\cli.py", 
+"method name": "prepare_import", 
+"call type": "directly", 
+"call frequency": 10, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_cli.py",
+"method name": "test_scriptinfo"],
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_cli.py",
+"method name": "test_no_command_echo_loading_error"],
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_cli.py",
+"method name": "test_help_echo_loading_error"],
+] 
+],
+["method": "test_cli.reset_path", 
+"method root": "F:\myPythonProjects\projects_new\flask\tests\test_cli.py", 
+"method name": "reset_path", 
+"call type": "transistively", 
+"call frequency": 10, 
+"other test call this function": [
+] 
+]
+]
+}

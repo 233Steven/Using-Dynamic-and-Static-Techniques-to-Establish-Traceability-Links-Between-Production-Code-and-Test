@@ -1,0 +1,14 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_commands.py", 
+"test name": "test_help_formatter", 
+"metohd list": [
+["method": "tests.test_commands.CommandSettings.test_help_formatter", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_commands.py", 
+"method name": "test_help_formatter", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

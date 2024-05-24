@@ -1,0 +1,14 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_urlutils.py", 
+"test name": "test_regex", 
+"metohd list": [
+["method": "tests.test_urlutils.test_regex", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_urlutils.py", 
+"method name": "test_regex", 
+"call type": "transistively", 
+"call frequency": 31, 
+"other test call this function": [
+] 
+]
+]
+}

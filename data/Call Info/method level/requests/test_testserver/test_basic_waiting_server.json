@@ -1,0 +1,14 @@
+{
+"test root": "F:\myPythonProjects\projects_new\requests\tests\test_testserver.py", 
+"test name": "test_basic_waiting_server", 
+"metohd list": [
+["method": "tests.test_testserver.TestTestServer.test_basic_waiting_server", 
+"method root": "F:\myPythonProjects\projects_new\requests\tests\test_testserver.py", 
+"method name": "test_basic_waiting_server", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

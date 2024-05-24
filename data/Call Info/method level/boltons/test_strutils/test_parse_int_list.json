@@ -1,0 +1,22 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_strutils.py", 
+"test name": "test_parse_int_list", 
+"metohd list": [
+["method": "tests.test_strutils.test_parse_int_list", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_strutils.py", 
+"method name": "test_parse_int_list", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.strutils.parse_int_list", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\strutils.py", 
+"method name": "parse_int_list", 
+"call type": "directly", 
+"call frequency": 7, 
+"other test call this function": [
+] 
+]
+]
+}

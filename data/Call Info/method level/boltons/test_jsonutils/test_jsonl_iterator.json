@@ -1,0 +1,56 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_jsonutils.py", 
+"test name": "test_jsonl_iterator", 
+"metohd list": [
+["method": "tests.test_jsonutils.test_jsonl_iterator", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_jsonutils.py", 
+"method name": "test_jsonl_iterator", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.jsonutils.JSONLIterator.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\jsonutils.py", 
+"method name": "__init__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.jsonutils.JSONLIterator._init_rel_seek", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\jsonutils.py", 
+"method name": "_init_rel_seek", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.jsonutils.JSONLIterator.__iter__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\jsonutils.py", 
+"method name": "__iter__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.jsonutils.JSONLIterator.next", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\jsonutils.py", 
+"method name": "next", 
+"call type": "directly", 
+"call frequency": 6, 
+"other test call this function": [
+] 
+],
+["method": "boltons.jsonutils.reverse_iter_lines", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\jsonutils.py", 
+"method name": "reverse_iter_lines", 
+"call type": "transistively", 
+"call frequency": 7, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_jsonutils.py",
+"method name": "test_reverse_iter_lines"],
+] 
+]
+]
+}

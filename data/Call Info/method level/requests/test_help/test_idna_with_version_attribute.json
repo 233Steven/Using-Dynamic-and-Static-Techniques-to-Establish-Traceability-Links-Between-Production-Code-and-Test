@@ -1,0 +1,38 @@
+{
+"test root": "F:\myPythonProjects\projects_new\requests\tests\test_help.py", 
+"test name": "test_idna_with_version_attribute", 
+"metohd list": [
+["method": "tests.test_help.test_idna_with_version_attribute", 
+"method root": "F:\myPythonProjects\projects_new\requests\tests\test_help.py", 
+"method name": "test_idna_with_version_attribute", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "requests.help.info", 
+"method root": "F:\myPythonProjects\projects_new\requests\requests\help.py", 
+"method name": "info", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_help.py",
+"method name": "test_system_ssl"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_help.py",
+"method name": "test_idna_without_version_attribute"],
+] 
+],
+["method": "requests.help._implementation", 
+"method root": "F:\myPythonProjects\projects_new\requests\requests\help.py", 
+"method name": "_implementation", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_help.py",
+"method name": "test_system_ssl"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_help.py",
+"method name": "test_idna_without_version_attribute"],
+] 
+]
+]
+}

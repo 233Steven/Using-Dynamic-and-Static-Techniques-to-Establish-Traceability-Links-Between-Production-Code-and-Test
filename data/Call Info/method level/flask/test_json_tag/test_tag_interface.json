@@ -1,0 +1,46 @@
+{
+"test root": "F:\myPythonProjects\projects_new\flask\tests\test_json_tag.py", 
+"test name": "test_tag_interface", 
+"metohd list": [
+["method": "test_json_tag.test_tag_interface", 
+"method root": "F:\myPythonProjects\projects_new\flask\tests\test_json_tag.py", 
+"method name": "test_tag_interface", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "flask.json.tag.JSONTag.__init__", 
+"method root": "F:\myPythonProjects\projects_new\flask\src\flask\json\tag.py", 
+"method name": "__init__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "flask.json.tag.JSONTag.check", 
+"method root": "F:\myPythonProjects\projects_new\flask\src\flask\json\tag.py", 
+"method name": "check", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "flask.json.tag.JSONTag.to_json", 
+"method root": "F:\myPythonProjects\projects_new\flask\src\flask\json\tag.py", 
+"method name": "to_json", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "flask.json.tag.JSONTag.to_python", 
+"method root": "F:\myPythonProjects\projects_new\flask\src\flask\json\tag.py", 
+"method name": "to_python", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

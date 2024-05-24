@@ -1,0 +1,24 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_iterutils.py", 
+"test name": "test_depth_one", 
+"metohd list": [
+["method": "tests.test_iterutils.TestGetPath.test_depth_one", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_iterutils.py", 
+"method name": "test_depth_one", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.iterutils.get_path", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\iterutils.py", 
+"method name": "get_path", 
+"call type": "directly", 
+"call frequency": 4, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_iterutils.py",
+"method name": "test_depth_two"],
+] 
+]
+]
+}

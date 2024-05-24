@@ -1,0 +1,22 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_strutils.py", 
+"test name": "test_format_int_list", 
+"metohd list": [
+["method": "tests.test_strutils.test_format_int_list", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_strutils.py", 
+"method name": "test_format_int_list", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.strutils.format_int_list", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\strutils.py", 
+"method name": "format_int_list", 
+"call type": "directly", 
+"call frequency": 4, 
+"other test call this function": [
+] 
+]
+]
+}

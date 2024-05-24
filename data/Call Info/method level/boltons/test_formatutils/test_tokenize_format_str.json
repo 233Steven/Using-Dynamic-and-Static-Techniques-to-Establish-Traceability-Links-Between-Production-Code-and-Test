@@ -1,0 +1,66 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_formatutils.py", 
+"test name": "test_tokenize_format_str", 
+"metohd list": [
+["method": "tests.test_formatutils.test_tokenize_format_str", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_formatutils.py", 
+"method name": "test_tokenize_format_str", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.formatutils.tokenize_format_str", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\formatutils.py", 
+"method name": "tokenize_format_str", 
+"call type": "directly", 
+"call frequency": 6, 
+"other test call this function": [
+] 
+],
+["method": "boltons.formatutils.infer_positional_format_args", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\formatutils.py", 
+"method name": "infer_positional_format_args", 
+"call type": "transistively", 
+"call frequency": 6, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_formatutils.py",
+"method name": "test_pos_infer"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_formatutils.py",
+"method name": "test_get_fstr_args"],
+] 
+],
+["method": "boltons.formatutils.BaseFormatField.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\formatutils.py", 
+"method name": "__init__", 
+"call type": "transistively", 
+"call frequency": 13, 
+"other test call this function": [
+] 
+],
+["method": "boltons.formatutils.BaseFormatField.set_fname", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\formatutils.py", 
+"method name": "set_fname", 
+"call type": "transistively", 
+"call frequency": 13, 
+"other test call this function": [
+] 
+],
+["method": "boltons.formatutils.BaseFormatField.set_fspec", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\formatutils.py", 
+"method name": "set_fspec", 
+"call type": "transistively", 
+"call frequency": 13, 
+"other test call this function": [
+] 
+],
+["method": "boltons.formatutils.BaseFormatField.set_conv", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\formatutils.py", 
+"method name": "set_conv", 
+"call type": "transistively", 
+"call frequency": 13, 
+"other test call this function": [
+] 
+]
+]
+}

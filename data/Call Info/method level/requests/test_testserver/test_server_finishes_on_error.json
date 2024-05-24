@@ -1,0 +1,14 @@
+{
+"test root": "F:\myPythonProjects\projects_new\requests\tests\test_testserver.py", 
+"test name": "test_server_finishes_on_error", 
+"metohd list": [
+["method": "tests.test_testserver.TestTestServer.test_server_finishes_on_error", 
+"method root": "F:\myPythonProjects\projects_new\requests\tests\test_testserver.py", 
+"method name": "test_server_finishes_on_error", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

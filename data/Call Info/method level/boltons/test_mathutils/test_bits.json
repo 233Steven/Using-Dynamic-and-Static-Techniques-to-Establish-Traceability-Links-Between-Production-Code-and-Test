@@ -1,0 +1,158 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_mathutils.py", 
+"test name": "test_bits", 
+"metohd list": [
+["method": "tests.test_mathutils.test_bits", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_mathutils.py", 
+"method name": "test_bits", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.mathutils.Bits.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\mathutils.py", 
+"method name": "__init__", 
+"call type": "directly", 
+"call frequency": 44, 
+"other test call this function": [
+] 
+],
+["method": "boltons.mathutils.Bits.__getitem__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\mathutils.py", 
+"method name": "__getitem__", 
+"call type": "directly", 
+"call frequency": 5, 
+"other test call this function": [
+] 
+],
+["method": "boltons.mathutils.Bits.as_bin", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\mathutils.py", 
+"method name": "as_bin", 
+"call type": "transistively", 
+"call frequency": 6, 
+"other test call this function": [
+] 
+],
+["method": "boltons.mathutils.Bits.__eq__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\mathutils.py", 
+"method name": "__eq__", 
+"call type": "transistively", 
+"call frequency": 12, 
+"other test call this function": [
+] 
+],
+["method": "boltons.mathutils.Bits.as_list", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\mathutils.py", 
+"method name": "as_list", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "boltons.mathutils.<listcomp>", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\mathutils.py", 
+"method name": "<listcomp>", 
+"call type": "transistively", 
+"call frequency": 4, 
+"other test call this function": [
+] 
+],
+["method": "boltons.mathutils.Bits.as_int", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\mathutils.py", 
+"method name": "as_int", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "boltons.mathutils.Bits.as_hex", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\mathutils.py", 
+"method name": "as_hex", 
+"call type": "directly", 
+"call frequency": 3, 
+"other test call this function": [
+] 
+],
+["method": "boltons.mathutils.Bits.__or__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\mathutils.py", 
+"method name": "__or__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.mathutils.Bits.__and__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\mathutils.py", 
+"method name": "__and__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.mathutils.Bits.__rshift__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\mathutils.py", 
+"method name": "__rshift__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.mathutils.Bits.__lshift__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\mathutils.py", 
+"method name": "__lshift__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.mathutils.from_hex", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\mathutils.py", 
+"method name": "from_hex", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "boltons.mathutils.Bits.as_bytes", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\mathutils.py", 
+"method name": "as_bytes", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.mathutils.from_bytes", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\mathutils.py", 
+"method name": "from_bytes", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.mathutils.from_list", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\mathutils.py", 
+"method name": "from_list", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.mathutils.from_bin", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\mathutils.py", 
+"method name": "from_bin", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.mathutils.from_int", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\mathutils.py", 
+"method name": "from_int", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

@@ -1,0 +1,14 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_commands.py", 
+"test name": "test_template_start_urls", 
+"metohd list": [
+["method": "tests.test_commands.GenspiderCommandTest.test_template_start_urls", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_commands.py", 
+"method name": "test_template_start_urls", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

@@ -1,0 +1,40 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_cacheutils.py", 
+"test name": "test_cachedproperty", 
+"metohd list": [
+["method": "tests.test_cacheutils.test_cachedproperty", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_cacheutils.py", 
+"method name": "test_cachedproperty", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.cachedproperty.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "__init__", 
+"call type": "transistively", 
+"call frequency": 2, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_cacheutils.py",
+"method name": "test_cachedproperty_maintains_func_abstraction"],
+] 
+],
+["method": "boltons.cacheutils.cachedproperty.__get__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "__get__", 
+"call type": "directly", 
+"call frequency": 4, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.cachedproperty.__repr__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "__repr__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

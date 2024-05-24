@@ -1,0 +1,26 @@
+{
+"test root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py", 
+"test name": "test_precedence", 
+"metohd list": [
+["method": "tests.test_utils.TestContentEncodingDetection.test_precedence", 
+"method root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py", 
+"method name": "test_precedence", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "requests.utils.get_encodings_from_content", 
+"method root": "F:\myPythonProjects\projects_new\requests\requests\utils.py", 
+"method name": "get_encodings_from_content", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py",
+"method name": "test_none"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py",
+"method name": "test_pragmas"],
+] 
+]
+]
+}

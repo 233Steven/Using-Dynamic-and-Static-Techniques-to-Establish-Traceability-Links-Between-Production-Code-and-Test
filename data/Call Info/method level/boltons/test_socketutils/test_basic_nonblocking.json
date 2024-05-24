@@ -1,0 +1,60 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_socketutils.py", 
+"test name": "test_basic_nonblocking", 
+"metohd list": [
+["method": "tests.test_socketutils.test_basic_nonblocking", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_socketutils.py", 
+"method name": "test_basic_nonblocking", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.socketutils.BufferedSocket.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\socketutils.py", 
+"method name": "__init__", 
+"call type": "directly", 
+"call frequency": 3, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_socketutils.py",
+"method name": "test_short_lines"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_socketutils.py",
+"method name": "test_multibyte_delim"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_socketutils.py",
+"method name": "test_props"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_socketutils.py",
+"method name": "test_buffers"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_socketutils.py",
+"method name": "test_client_disconnecting"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_socketutils.py",
+"method name": "test_split_delim"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_socketutils.py",
+"method name": "test_simple_buffered_socket_passthroughs"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_socketutils.py",
+"method name": "test_timeout_setters_getters"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_socketutils.py",
+"method name": "test_socketutils_netstring"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_socketutils.py",
+"method name": "test_socketutils_netstring_timeout"],
+] 
+],
+["method": "boltons.socketutils.BufferedSocket.recv_until", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\socketutils.py", 
+"method name": "recv_until", 
+"call type": "directly", 
+"call frequency": 6, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_socketutils.py",
+"method name": "test_short_lines"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_socketutils.py",
+"method name": "test_multibyte_delim"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_socketutils.py",
+"method name": "test_split_delim"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_socketutils.py",
+"method name": "test_socketutils_netstring"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_socketutils.py",
+"method name": "test_socketutils_netstring_timeout"],
+] 
+]
+]
+}

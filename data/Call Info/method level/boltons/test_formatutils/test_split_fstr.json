@@ -1,0 +1,30 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_formatutils.py", 
+"test name": "test_split_fstr", 
+"metohd list": [
+["method": "tests.test_formatutils.test_split_fstr", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_formatutils.py", 
+"method name": "test_split_fstr", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.formatutils.split_format_str", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\formatutils.py", 
+"method name": "split_format_str", 
+"call type": "directly", 
+"call frequency": 6, 
+"other test call this function": [
+] 
+],
+["method": "boltons.formatutils.construct_format_field_str", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\formatutils.py", 
+"method name": "construct_format_field_str", 
+"call type": "transistively", 
+"call frequency": 13, 
+"other test call this function": [
+] 
+]
+]
+}

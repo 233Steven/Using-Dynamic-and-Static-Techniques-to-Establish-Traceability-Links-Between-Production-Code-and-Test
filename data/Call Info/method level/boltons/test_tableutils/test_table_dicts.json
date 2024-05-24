@@ -1,0 +1,190 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py", 
+"test name": "test_table_dicts", 
+"metohd list": [
+["method": "tests.test_tableutils.test_table_dicts", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py", 
+"method name": "test_table_dicts", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tableutils.from_dict", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "from_dict", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tableutils.DictInputType.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "__init__", 
+"call type": "transistively", 
+"call frequency": 2, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_lists"],
+] 
+],
+["method": "boltons.tableutils.from_data", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "from_data", 
+"call type": "transistively", 
+"call frequency": 2, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_obj"],
+] 
+],
+["method": "boltons.tableutils.DictInputType.guess_headers", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "guess_headers", 
+"call type": "transistively", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tableutils.DictInputType.get_entry", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "get_entry", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tableutils.<listcomp>", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "<listcomp>", 
+"call type": "transistively", 
+"call frequency": 24, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tableutils.Table.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "__init__", 
+"call type": "transistively", 
+"call frequency": 2, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_lists"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_obj"],
+] 
+],
+["method": "boltons.tableutils.Table.extend", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "extend", 
+"call type": "transistively", 
+"call frequency": 3, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_lists"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_obj"],
+] 
+],
+["method": "boltons.tableutils.Table._set_width", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "_set_width", 
+"call type": "transistively", 
+"call frequency": 3, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_lists"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_obj"],
+] 
+],
+["method": "boltons.tableutils.Table._fill", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "_fill", 
+"call type": "transistively", 
+"call frequency": 3, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_lists"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_obj"],
+] 
+],
+["method": "boltons.tableutils.DictInputType.get_entry_seq", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "get_entry_seq", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tableutils.Table.__len__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "__len__", 
+"call type": "directly", 
+"call frequency": 3, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_lists"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tableutils.py",
+"method name": "test_table_obj"],
+] 
+],
+["method": "boltons.tableutils.Table.to_html", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "to_html", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tableutils.Table._add_vertical_html_lines", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "_add_vertical_html_lines", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tableutils.Table.get_cell_html", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "get_cell_html", 
+"call type": "transistively", 
+"call frequency": 14, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tableutils.escape_html", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "escape_html", 
+"call type": "transistively", 
+"call frequency": 14, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tableutils.to_text", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "to_text", 
+"call type": "transistively", 
+"call frequency": 24, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tableutils.Table._add_horizontal_html_lines", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "_add_horizontal_html_lines", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tableutils.Table.to_text", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tableutils.py", 
+"method name": "to_text", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

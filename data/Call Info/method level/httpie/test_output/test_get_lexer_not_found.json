@@ -1,0 +1,36 @@
+{
+"test root": "F:\myPythonProjects\projects_new\httpie\tests\test_output.py", 
+"test name": "test_get_lexer_not_found", 
+"metohd list": [
+["method": "tests.test_output.TestColors.test_get_lexer_not_found", 
+"method root": "F:\myPythonProjects\projects_new\httpie\tests\test_output.py", 
+"method name": "test_get_lexer_not_found", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "httpie.output.formatters.colors.get_lexer", 
+"method root": "F:\myPythonProjects\projects_new\httpie\httpie\output\formatters\colors.py", 
+"method name": "get_lexer", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\httpie\tests\test_json.py",
+"method name": "test_json_formatter_with_body_preceded_by_non_json_data"],
+["method root": "F:\myPythonProjects\projects_new\httpie\tests\test_output.py",
+"method name": "test_get_lexer"],
+["method root": "F:\myPythonProjects\projects_new\httpie\tests\test_output.py",
+"method name": "test_ensure_contents_colored"],
+["method root": "F:\myPythonProjects\projects_new\httpie\tests\test_output.py",
+"method name": "test_pretty_enabled_by_default"],
+["method root": "F:\myPythonProjects\projects_new\httpie\tests\test_output.py",
+"method name": "test_force_pretty"],
+["method root": "F:\myPythonProjects\projects_new\httpie\tests\test_output.py",
+"method name": "test_subtype_based_pygments_lexer_match"],
+["method root": "F:\myPythonProjects\projects_new\httpie\tests\test_output.py",
+"method name": "test_colors_option"],
+] 
+]
+]
+}

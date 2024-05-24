@@ -1,0 +1,46 @@
+{
+"test root": "F:\myPythonProjects\projects_new\httpie\tests\test_update_warnings.py", 
+"test name": "test_daemon_runner", 
+"metohd list": [
+["method": "tests.test_update_warnings.test_daemon_runner", 
+"method root": "F:\myPythonProjects\projects_new\httpie\tests\test_update_warnings.py", 
+"method name": "test_daemon_runner", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "httpie.internal.daemons.spawn_daemon", 
+"method root": "F:\myPythonProjects\projects_new\httpie\httpie\internal\daemons.py", 
+"method name": "spawn_daemon", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "httpie.internal.daemons._spawn", 
+"method root": "F:\myPythonProjects\projects_new\httpie\httpie\internal\daemons.py", 
+"method name": "_spawn", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "httpie.internal.daemons._spawn_windows", 
+"method root": "F:\myPythonProjects\projects_new\httpie\httpie\internal\daemons.py", 
+"method name": "_spawn_windows", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "httpie.internal.daemons._start_process", 
+"method root": "F:\myPythonProjects\projects_new\httpie\httpie\internal\daemons.py", 
+"method name": "_start_process", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

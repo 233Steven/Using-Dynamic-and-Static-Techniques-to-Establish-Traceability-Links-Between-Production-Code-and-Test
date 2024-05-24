@@ -1,0 +1,14 @@
+{
+"test root": "F:\myPythonProjects\projects_new\requests\tests\test_packages.py", 
+"test name": "test_can_access_urllib3_attribute", 
+"metohd list": [
+["method": "tests.test_packages.test_can_access_urllib3_attribute", 
+"method root": "F:\myPythonProjects\projects_new\requests\tests\test_packages.py", 
+"method name": "test_can_access_urllib3_attribute", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

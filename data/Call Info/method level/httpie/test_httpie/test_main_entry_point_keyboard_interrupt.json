@@ -1,0 +1,14 @@
+{
+"test root": "F:\myPythonProjects\projects_new\httpie\tests\test_httpie.py", 
+"test name": "test_main_entry_point_keyboard_interrupt", 
+"metohd list": [
+["method": "tests.test_httpie.test_main_entry_point_keyboard_interrupt", 
+"method root": "F:\myPythonProjects\projects_new\httpie\tests\test_httpie.py", 
+"method name": "test_main_entry_point_keyboard_interrupt", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

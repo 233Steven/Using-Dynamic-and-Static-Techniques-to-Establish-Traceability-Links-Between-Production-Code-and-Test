@@ -1,0 +1,24 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_utils_defer.py", 
+"test name": "test_process_chain_both", 
+"metohd list": [
+["method": "tests.test_utils_defer.DeferUtilsTest.test_process_chain_both", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_utils_defer.py", 
+"method name": "test_process_chain_both", 
+"call type": "transistively", 
+"call frequency": 3, 
+"other test call this function": [
+] 
+],
+["method": "scrapy.utils.defer.process_chain_both", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\scrapy\utils\defer.py", 
+"method name": "process_chain_both", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_utils_defer.py",
+"method name": "test_process_chain"],
+] 
+]
+]
+}

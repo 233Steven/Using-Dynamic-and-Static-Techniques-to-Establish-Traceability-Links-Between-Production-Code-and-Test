@@ -1,0 +1,74 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_stats.py", 
+"test name": "test_dummy_collector", 
+"metohd list": [
+["method": "tests.test_stats.StatsCollectorTest.test_dummy_collector", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_stats.py", 
+"method name": "test_dummy_collector", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "scrapy.statscollectors.DummyStatsCollector.__init__", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\scrapy\statscollectors.py", 
+"method name": "__init__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_stats.py",
+"method name": "test_core_stats_dummy_stats_collector"],
+] 
+],
+["method": "scrapy.statscollectors.DummyStatsCollector.get_stats", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\scrapy\statscollectors.py", 
+"method name": "get_stats", 
+"call type": "directly", 
+"call frequency": 3, 
+"other test call this function": [
+] 
+],
+["method": "scrapy.statscollectors.DummyStatsCollector.get_value", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\scrapy\statscollectors.py", 
+"method name": "get_value", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "scrapy.statscollectors.DummyStatsCollector.set_value", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\scrapy\statscollectors.py", 
+"method name": "set_value", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_stats.py",
+"method name": "test_core_stats_dummy_stats_collector"],
+] 
+],
+["method": "scrapy.statscollectors.DummyStatsCollector.max_value", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\scrapy\statscollectors.py", 
+"method name": "max_value", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "scrapy.statscollectors.DummyStatsCollector.min_value", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\scrapy\statscollectors.py", 
+"method name": "min_value", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "scrapy.statscollectors.DummyStatsCollector.open_spider", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\scrapy\statscollectors.py", 
+"method name": "open_spider", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

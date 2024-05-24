@@ -1,0 +1,22 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_funcutils.py", 
+"test name": "test_noop", 
+"metohd list": [
+["method": "tests.test_funcutils.test_noop", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_funcutils.py", 
+"method name": "test_noop", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.funcutils.noop", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\funcutils.py", 
+"method name": "noop", 
+"call type": "directly", 
+"call frequency": 3, 
+"other test call this function": [
+] 
+]
+]
+}

@@ -1,0 +1,44 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_cacheutils.py", 
+"test name": "test_cachedmethod_maintains_func_abstraction", 
+"metohd list": [
+["method": "tests.test_cacheutils.test_cachedmethod_maintains_func_abstraction", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_cacheutils.py", 
+"method name": "test_cachedmethod_maintains_func_abstraction", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.cachedmethod", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "cachedmethod", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_cacheutils.py",
+"method name": "test_cachedmethod"],
+] 
+],
+["method": "boltons.cacheutils.cached_method_decorator", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "cached_method_decorator", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_cacheutils.py",
+"method name": "test_cachedmethod"],
+] 
+],
+["method": "boltons.cacheutils.CachedMethod.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "__init__", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_cacheutils.py",
+"method name": "test_cachedmethod"],
+] 
+]
+]
+}

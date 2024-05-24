@@ -1,0 +1,24 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_pipeline_files.py", 
+"test name": "test_blob_path_consistency", 
+"metohd list": [
+["method": "tests.test_pipeline_files.TestGCSFilesStore.test_blob_path_consistency", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_pipeline_files.py", 
+"method name": "test_blob_path_consistency", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "scrapy.utils.test.assert_gcs_environ", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\scrapy\utils\test.py", 
+"method name": "assert_gcs_environ", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_pipeline_files.py",
+"method name": "test_persist"],
+] 
+]
+]
+}

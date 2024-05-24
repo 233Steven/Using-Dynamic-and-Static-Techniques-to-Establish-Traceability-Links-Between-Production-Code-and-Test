@@ -1,0 +1,42 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_formatutils.py", 
+"test name": "test_get_fstr_args", 
+"metohd list": [
+["method": "tests.test_formatutils.test_get_fstr_args", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_formatutils.py", 
+"method name": "test_get_fstr_args", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.formatutils.infer_positional_format_args", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\formatutils.py", 
+"method name": "infer_positional_format_args", 
+"call type": "directly", 
+"call frequency": 6, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_formatutils.py",
+"method name": "test_pos_infer"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_formatutils.py",
+"method name": "test_tokenize_format_str"],
+] 
+],
+["method": "boltons.formatutils.get_format_args", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\formatutils.py", 
+"method name": "get_format_args", 
+"call type": "directly", 
+"call frequency": 6, 
+"other test call this function": [
+] 
+],
+["method": "boltons.formatutils._add_arg", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\formatutils.py", 
+"method name": "_add_arg", 
+"call type": "transistively", 
+"call frequency": 16, 
+"other test call this function": [
+] 
+]
+]
+}

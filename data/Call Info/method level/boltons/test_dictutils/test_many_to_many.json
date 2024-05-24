@@ -1,0 +1,126 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_dictutils.py", 
+"test name": "test_many_to_many", 
+"metohd list": [
+["method": "tests.test_dictutils.test_many_to_many", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_dictutils.py", 
+"method name": "test_many_to_many", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.dictutils.ManyToMany.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\dictutils.py", 
+"method name": "__init__", 
+"call type": "directly", 
+"call frequency": 16, 
+"other test call this function": [
+] 
+],
+["method": "boltons.dictutils.ManyToMany.__len__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\dictutils.py", 
+"method name": "__len__", 
+"call type": "directly", 
+"call frequency": 5, 
+"other test call this function": [
+] 
+],
+["method": "boltons.dictutils.ManyToMany.add", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\dictutils.py", 
+"method name": "add", 
+"call type": "directly", 
+"call frequency": 16, 
+"other test call this function": [
+] 
+],
+["method": "boltons.dictutils.ManyToMany.__getitem__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\dictutils.py", 
+"method name": "__getitem__", 
+"call type": "directly", 
+"call frequency": 5, 
+"other test call this function": [
+] 
+],
+["method": "boltons.dictutils.ManyToMany.__delitem__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\dictutils.py", 
+"method name": "__delitem__", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "boltons.dictutils.ManyToMany.__contains__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\dictutils.py", 
+"method name": "__contains__", 
+"call type": "directly", 
+"call frequency": 4, 
+"other test call this function": [
+] 
+],
+["method": "boltons.dictutils.ManyToMany.__setitem__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\dictutils.py", 
+"method name": "__setitem__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.dictutils.ManyToMany.iteritems", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\dictutils.py", 
+"method name": "iteritems", 
+"call type": "directly", 
+"call frequency": 11, 
+"other test call this function": [
+] 
+],
+["method": "boltons.dictutils.ManyToMany.remove", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\dictutils.py", 
+"method name": "remove", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "boltons.dictutils.ManyToMany.update", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\dictutils.py", 
+"method name": "update", 
+"call type": "directly", 
+"call frequency": 8, 
+"other test call this function": [
+] 
+],
+["method": "boltons.dictutils.ManyToMany.get", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\dictutils.py", 
+"method name": "get", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "boltons.dictutils.ManyToMany.__eq__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\dictutils.py", 
+"method name": "__eq__", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "boltons.dictutils.ManyToMany.replace", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\dictutils.py", 
+"method name": "replace", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.dictutils.ManyToMany.__repr__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\dictutils.py", 
+"method name": "__repr__", 
+"call type": "directly", 
+"call frequency": 4, 
+"other test call this function": [
+] 
+]
+]
+}

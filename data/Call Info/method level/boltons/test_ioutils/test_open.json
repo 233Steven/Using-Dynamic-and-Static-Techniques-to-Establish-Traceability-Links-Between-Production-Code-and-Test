@@ -1,0 +1,88 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_ioutils.py", 
+"test name": "test_open", 
+"metohd list": [
+["method": "tests.test_ioutils.TestMultiFileReader.test_open", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_ioutils.py", 
+"method name": "test_open", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.ioutils.MultiFileReader.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\ioutils.py", 
+"method name": "__init__", 
+"call type": "directly", 
+"call frequency": 3, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_ioutils.py",
+"method name": "test_read_seek_bytes"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_ioutils.py",
+"method name": "test_read_seek_text"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_ioutils.py",
+"method name": "test_no_mixed_bytes_and_text"],
+] 
+],
+["method": "boltons.ioutils.<listcomp>", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\ioutils.py", 
+"method name": "<listcomp>", 
+"call type": "transistively", 
+"call frequency": 7, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_ioutils.py",
+"method name": "test_readline"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_ioutils.py",
+"method name": "test_readlines"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_ioutils.py",
+"method name": "test_read_seek_bytes"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_ioutils.py",
+"method name": "test_read_seek_text"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_ioutils.py",
+"method name": "test_no_mixed_bytes_and_text"],
+] 
+],
+["method": "boltons.ioutils.is_text_fileobj", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\ioutils.py", 
+"method name": "is_text_fileobj", 
+"call type": "transistively", 
+"call frequency": 8, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_ioutils.py",
+"method name": "test_read_seek_bytes"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_ioutils.py",
+"method name": "test_read_seek_text"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_ioutils.py",
+"method name": "test_no_mixed_bytes_and_text"],
+] 
+],
+["method": "boltons.ioutils.MultiFileReader.read", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\ioutils.py", 
+"method name": "read", 
+"call type": "directly", 
+"call frequency": 3, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_ioutils.py",
+"method name": "test_read_seek_bytes"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_ioutils.py",
+"method name": "test_read_seek_text"],
+] 
+],
+["method": "boltons.ioutils.<genexpr>", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\ioutils.py", 
+"method name": "<genexpr>", 
+"call type": "transistively", 
+"call frequency": 9, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_ioutils.py",
+"method name": "test_readline"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_ioutils.py",
+"method name": "test_readlines"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_ioutils.py",
+"method name": "test_read_seek_bytes"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_ioutils.py",
+"method name": "test_read_seek_text"],
+] 
+]
+]
+}

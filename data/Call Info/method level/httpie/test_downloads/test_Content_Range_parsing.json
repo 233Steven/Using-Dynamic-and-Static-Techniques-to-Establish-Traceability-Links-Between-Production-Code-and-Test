@@ -1,0 +1,24 @@
+{
+"test root": "F:\myPythonProjects\projects_new\httpie\tests\test_downloads.py", 
+"test name": "test_Content_Range_parsing", 
+"metohd list": [
+["method": "tests.test_downloads.TestDownloadUtils.test_Content_Range_parsing", 
+"method root": "F:\myPythonProjects\projects_new\httpie\tests\test_downloads.py", 
+"method name": "test_Content_Range_parsing", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "httpie.downloads.parse_content_range", 
+"method root": "F:\myPythonProjects\projects_new\httpie\httpie\downloads.py", 
+"method name": "parse_content_range", 
+"call type": "directly", 
+"call frequency": 8, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\httpie\tests\test_downloads.py",
+"method name": "test_download_resumed"],
+] 
+]
+]
+}

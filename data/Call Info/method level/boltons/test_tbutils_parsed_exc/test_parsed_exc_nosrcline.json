@@ -1,0 +1,44 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_tbutils_parsed_exc.py", 
+"test name": "test_parsed_exc_nosrcline", 
+"metohd list": [
+["method": "tests.test_tbutils_parsed_exc.test_parsed_exc_nosrcline", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tbutils_parsed_exc.py", 
+"method name": "test_parsed_exc_nosrcline", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tbutils.from_string", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "from_string", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tbutils_parsed_exc.py",
+"method name": "test_parsed_exc_basic"],
+] 
+],
+["method": "boltons.tbutils.ParsedException.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "__init__", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tbutils_parsed_exc.py",
+"method name": "test_parsed_exc_basic"],
+] 
+],
+["method": "boltons.tbutils.ParsedException.to_string", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "to_string", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tbutils_parsed_exc.py",
+"method name": "test_parsed_exc_basic"],
+] 
+]
+]
+}

@@ -1,0 +1,14 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_crawler.py", 
+"test name": "test_caching_hostname_resolver_finite_execution", 
+"metohd list": [
+["method": "tests.test_crawler.CrawlerProcessSubprocess.test_caching_hostname_resolver_finite_execution", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_crawler.py", 
+"method name": "test_caching_hostname_resolver_finite_execution", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

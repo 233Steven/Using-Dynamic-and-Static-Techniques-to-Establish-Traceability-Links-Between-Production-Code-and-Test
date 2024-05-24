@@ -1,0 +1,22 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_strutils.py", 
+"test name": "test_strip_ansi", 
+"metohd list": [
+["method": "tests.test_strutils.test_strip_ansi", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_strutils.py", 
+"method name": "test_strip_ansi", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.strutils.strip_ansi", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\strutils.py", 
+"method name": "strip_ansi", 
+"call type": "directly", 
+"call frequency": 9, 
+"other test call this function": [
+] 
+]
+]
+}
