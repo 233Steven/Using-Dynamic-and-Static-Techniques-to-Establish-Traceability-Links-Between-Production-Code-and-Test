@@ -1,0 +1,64 @@
+{
+"test root": "F:\myPythonProjects\projects_new\textdistance\tests\test_edit\test_gotoh.py", 
+"test name": "test_distance_ident", 
+"metohd list": [
+["method": "tests.test_edit.test_gotoh.test_distance_ident", 
+"method root": "F:\myPythonProjects\projects_new\textdistance\tests\test_edit\test_gotoh.py", 
+"method name": "test_distance_ident", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "textdistance.algorithms.edit_based.Gotoh.__init__", 
+"method root": "F:\myPythonProjects\projects_new\textdistance\textdistance\algorithms\edit_based.py", 
+"method name": "__init__", 
+"call type": "directly", 
+"call frequency": 5, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\textdistance\tests\test_compression\test_common.py",
+"method name": "test_normalization_range"],
+["method root": "F:\myPythonProjects\projects_new\textdistance\tests\test_edit\test_gotoh.py",
+"method name": "test_distance_ident_with_gap_05"],
+["method root": "F:\myPythonProjects\projects_new\textdistance\tests\test_edit\test_gotoh.py",
+"method name": "test_distance_ident_with_gap_5"],
+] 
+],
+["method": "textdistance.algorithms.edit_based.Gotoh.__call__", 
+"method root": "F:\myPythonProjects\projects_new\textdistance\textdistance\algorithms\edit_based.py", 
+"method name": "__call__", 
+"call type": "directly", 
+"call frequency": 5, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\textdistance\tests\test_edit\test_gotoh.py",
+"method name": "test_distance_ident_with_gap_05"],
+["method root": "F:\myPythonProjects\projects_new\textdistance\tests\test_edit\test_gotoh.py",
+"method name": "test_distance_ident_with_gap_5"],
+] 
+],
+["method": "textdistance.algorithms.base.Gotoh._get_sequences", 
+"method root": "F:\myPythonProjects\projects_new\textdistance\textdistance\algorithms\base.py", 
+"method name": "_get_sequences", 
+"call type": "transistively", 
+"call frequency": 5, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\textdistance\tests\test_edit\test_gotoh.py",
+"method name": "test_distance_ident_with_gap_05"],
+["method root": "F:\myPythonProjects\projects_new\textdistance\tests\test_edit\test_gotoh.py",
+"method name": "test_distance_ident_with_gap_5"],
+] 
+],
+["method": "textdistance.algorithms.edit_based.<genexpr>", 
+"method root": "F:\myPythonProjects\projects_new\textdistance\textdistance\algorithms\edit_based.py", 
+"method name": "<genexpr>", 
+"call type": "transistively", 
+"call frequency": 15, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\textdistance\tests\test_edit\test_gotoh.py",
+"method name": "test_distance_ident_with_gap_05"],
+["method root": "F:\myPythonProjects\projects_new\textdistance\tests\test_edit\test_gotoh.py",
+"method name": "test_distance_ident_with_gap_5"],
+] 
+]
+]
+}
