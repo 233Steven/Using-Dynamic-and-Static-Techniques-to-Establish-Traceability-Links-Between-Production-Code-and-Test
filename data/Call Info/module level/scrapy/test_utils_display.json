@@ -1,0 +1,20 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_utils_display.py", 
+"module list": [
+["module": "test_utils_display", 
+"module root": "F:\myPythonProjects\projects_new\scrapy\tests\test_utils_display.py", 
+"call deep": [3, 4, 5, 6, -1, 0], 
+"call frequency": 6, 
+"other test module call this production": [
+] 
+],
+["module": "display", 
+"module root": "F:\myPythonProjects\projects_new\scrapy\scrapy\utils\display.py", 
+"call deep": [1, 2, 3, 0], 
+"call frequency": 4, 
+"other test module call this production": [
+["module": "F:\myPythonProjects\projects_new\scrapy\tests\test_command_parse.py"],
+] 
+]
+]
+}

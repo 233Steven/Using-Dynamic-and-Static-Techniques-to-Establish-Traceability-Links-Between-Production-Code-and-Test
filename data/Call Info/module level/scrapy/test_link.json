@@ -1,0 +1,29 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_link.py", 
+"module list": [
+["module": "test_link", 
+"module root": "F:\myPythonProjects\projects_new\scrapy\tests\test_link.py", 
+"call deep": [4, 5, -1, 0], 
+"call frequency": 4, 
+"other test module call this production": [
+] 
+],
+["module": "link", 
+"module root": "F:\myPythonProjects\projects_new\scrapy\scrapy\link.py", 
+"call deep": [1, 3, 0], 
+"call frequency": 3, 
+"other test module call this production": [
+["module": "F:\myPythonProjects\projects_new\scrapy\tests\test_closespider.py"],
+["module": "F:\myPythonProjects\projects_new\scrapy\tests\test_crawl.py"],
+["module": "F:\myPythonProjects\projects_new\scrapy\tests\test_engine.py"],
+["module": "F:\myPythonProjects\projects_new\scrapy\tests\test_engine_stop_download_bytes.py"],
+["module": "F:\myPythonProjects\projects_new\scrapy\tests\test_engine_stop_download_headers.py"],
+["module": "F:\myPythonProjects\projects_new\scrapy\tests\test_feedexport.py"],
+["module": "F:\myPythonProjects\projects_new\scrapy\tests\test_http_response.py"],
+["module": "F:\myPythonProjects\projects_new\scrapy\tests\test_linkextractors.py"],
+["module": "F:\myPythonProjects\projects_new\scrapy\tests\test_logformatter.py"],
+["module": "F:\myPythonProjects\projects_new\scrapy\tests\test_spider.py"],
+] 
+]
+]
+}

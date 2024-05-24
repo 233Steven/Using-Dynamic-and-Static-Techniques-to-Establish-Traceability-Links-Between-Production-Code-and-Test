@@ -1,0 +1,19 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_utils_console.py", 
+"module list": [
+["module": "test_utils_console", 
+"module root": "F:\myPythonProjects\projects_new\scrapy\tests\test_utils_console.py", 
+"call deep": [4, 5, -1], 
+"call frequency": 3, 
+"other test module call this production": [
+] 
+],
+["module": "console", 
+"module root": "F:\myPythonProjects\projects_new\scrapy\scrapy\utils\console.py", 
+"call deep": [1, 10, 0], 
+"call frequency": 3, 
+"other test module call this production": [
+] 
+]
+]
+}
