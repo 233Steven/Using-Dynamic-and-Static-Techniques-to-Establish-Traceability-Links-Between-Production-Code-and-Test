@@ -1,0 +1,20 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_tbutils.py", 
+"module list": [
+["module": "tbutils", 
+"module root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"call deep": [1, 2, 3, 4, 5, 6, 7, 9, 10], 
+"call frequency": 9, 
+"other test module call this production": [
+["module": "F:\myPythonProjects\projects_new\boltons\tests\test_tbutils_parsed_exc.py"],
+] 
+],
+["module": "test_tbutils", 
+"module root": "F:\myPythonProjects\projects_new\boltons\tests\test_tbutils.py", 
+"call deep": [1, 2, 3, 0], 
+"call frequency": 4, 
+"other test module call this production": [
+] 
+]
+]
+}

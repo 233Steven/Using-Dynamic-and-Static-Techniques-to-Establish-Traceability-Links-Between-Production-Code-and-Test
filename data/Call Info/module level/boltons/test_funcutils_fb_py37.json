@@ -1,0 +1,22 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_funcutils_fb_py37.py", 
+"module list": [
+["module": "test_funcutils_fb_py37", 
+"module root": "F:\myPythonProjects\projects_new\boltons\tests\test_funcutils_fb_py37.py", 
+"call deep": [1, 3, 8, 9, 0], 
+"call frequency": 5, 
+"other test module call this production": [
+] 
+],
+["module": "funcutils", 
+"module root": "F:\myPythonProjects\projects_new\boltons\boltons\funcutils.py", 
+"call deep": [2, 3, 4, 5], 
+"call frequency": 4, 
+"other test module call this production": [
+["module": "F:\myPythonProjects\projects_new\boltons\tests\test_funcutils.py"],
+["module": "F:\myPythonProjects\projects_new\boltons\tests\test_funcutils_fb.py"],
+["module": "F:\myPythonProjects\projects_new\boltons\tests\test_funcutils_fb_py3.py"],
+] 
+]
+]
+}

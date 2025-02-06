@@ -1,0 +1,19 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_ioutils.py", 
+"module list": [
+["module": "ioutils", 
+"module root": "F:\myPythonProjects\projects_new\boltons\boltons\ioutils.py", 
+"call deep": [1, 2, 3, 4, 11, 12, -1, 0], 
+"call frequency": 8, 
+"other test module call this production": [
+] 
+],
+["module": "test_ioutils", 
+"module root": "F:\myPythonProjects\projects_new\boltons\tests\test_ioutils.py", 
+"call deep": [3, 4, -1, 0], 
+"call frequency": 4, 
+"other test module call this production": [
+] 
+]
+]
+}
