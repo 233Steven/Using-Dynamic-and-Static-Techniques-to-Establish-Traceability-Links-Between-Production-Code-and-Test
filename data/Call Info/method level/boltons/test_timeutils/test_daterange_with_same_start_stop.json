@@ -1,0 +1,28 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_timeutils.py", 
+"test name": "test_daterange_with_same_start_stop", 
+"metohd list": [
+["method": "tests.test_timeutils.test_daterange_with_same_start_stop", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_timeutils.py", 
+"method name": "test_daterange_with_same_start_stop", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.timeutils.daterange", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\timeutils.py", 
+"method name": "daterange", 
+"call type": "directly", 
+"call frequency": 3, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_timeutils.py",
+"method name": "test_daterange_years"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_timeutils.py",
+"method name": "test_daterange_years_step"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_timeutils.py",
+"method name": "test_daterange_infinite"],
+] 
+]
+]
+}

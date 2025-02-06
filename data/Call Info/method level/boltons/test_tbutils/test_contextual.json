@@ -1,0 +1,208 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_tbutils.py", 
+"test name": "test_contextual", 
+"metohd list": [
+["method": "tests.test_tbutils.test_contextual", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tbutils.py", 
+"method name": "test_contextual", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tbutils.from_current", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "from_current", 
+"call type": "transistively", 
+"call frequency": 2, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tbutils.py",
+"method name": "test_exception_info"],
+] 
+],
+["method": "boltons.tbutils.from_frame", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "from_frame", 
+"call type": "transistively", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tbutils._DeferredLine.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "__init__", 
+"call type": "transistively", 
+"call frequency": 85, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tbutils.py",
+"method name": "test_exception_info"],
+] 
+],
+["method": "boltons.tbutils.ContextualCallpoint.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "__init__", 
+"call type": "transistively", 
+"call frequency": 10, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tbutils.ContextualCallpoint._populate_local_reprs", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "_populate_local_reprs", 
+"call type": "transistively", 
+"call frequency": 5, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tbutils.ContextualCallpoint._populate_context_lines", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "_populate_context_lines", 
+"call type": "transistively", 
+"call frequency": 5, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tbutils.ContextualCallpoint.<listcomp>", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "<listcomp>", 
+"call type": "transistively", 
+"call frequency": 13, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tbutils._DeferredLine.__str__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "__str__", 
+"call type": "directly", 
+"call frequency": 28, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tbutils.py",
+"method name": "test_exception_info"],
+] 
+],
+["method": "boltons.tbutils.ContextualCallpoint.__repr__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "__repr__", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tbutils.<listcomp>", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "<listcomp>", 
+"call type": "transistively", 
+"call frequency": 4, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tbutils.py",
+"method name": "test_exception_info"],
+] 
+],
+["method": "boltons.tbutils._DeferredLine.__repr__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "__repr__", 
+"call type": "transistively", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tbutils.ContextualCallpoint.to_dict", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "to_dict", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tbutils.from_exc_info", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "from_exc_info", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tbutils.py",
+"method name": "test_exception_info"],
+] 
+],
+["method": "boltons.tbutils._some_str", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "_some_str", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tbutils.py",
+"method name": "test_exception_info"],
+] 
+],
+["method": "boltons.tbutils.from_traceback", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "from_traceback", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tbutils.py",
+"method name": "test_exception_info"],
+] 
+],
+["method": "boltons.tbutils.from_tb", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "from_tb", 
+"call type": "transistively", 
+"call frequency": 8, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tbutils.py",
+"method name": "test_exception_info"],
+] 
+],
+["method": "boltons.tbutils.ContextualTracebackInfo.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "__init__", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tbutils.ContextualExceptionInfo.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "__init__", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tbutils.ContextualExceptionInfo.get_formatted", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "get_formatted", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tbutils.ContextualTracebackInfo.get_formatted", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "get_formatted", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tbutils.ContextualCallpoint.tb_frame_str", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "tb_frame_str", 
+"call type": "transistively", 
+"call frequency": 4, 
+"other test call this function": [
+] 
+],
+["method": "boltons.tbutils._DeferredLine.__len__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\tbutils.py", 
+"method name": "__len__", 
+"call type": "transistively", 
+"call frequency": 4, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_tbutils.py",
+"method name": "test_exception_info"],
+] 
+]
+]
+}

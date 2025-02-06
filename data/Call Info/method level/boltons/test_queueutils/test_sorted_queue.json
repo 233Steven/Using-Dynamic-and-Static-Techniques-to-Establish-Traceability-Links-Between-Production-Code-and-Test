@@ -1,0 +1,200 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_queueutils.py", 
+"test name": "test_sorted_queue", 
+"metohd list": [
+["method": "tests.test_queueutils.test_sorted_queue", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_queueutils.py", 
+"method name": "test_sorted_queue", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.queueutils.SortedPriorityQueue.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\queueutils.py", 
+"method name": "__init__", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.listutils.BarrelList.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\listutils.py", 
+"method name": "__init__", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_listutils.py",
+"method name": "test_splay_list"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_listutils.py",
+"method name": "test_barrel_list"],
+] 
+],
+["method": "boltons.queueutils.SortedPriorityQueue.add", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\queueutils.py", 
+"method name": "add", 
+"call type": "transistively", 
+"call frequency": 7, 
+"other test call this function": [
+] 
+],
+["method": "boltons.queueutils.<lambda>", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\queueutils.py", 
+"method name": "<lambda>", 
+"call type": "transistively", 
+"call frequency": 7, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_queueutils.py",
+"method name": "test_heap_queue"],
+] 
+],
+["method": "boltons.queueutils._push_entry", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\queueutils.py", 
+"method name": "_push_entry", 
+"call type": "transistively", 
+"call frequency": 7, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_queueutils.py",
+"method name": "test_heap_queue"],
+] 
+],
+["method": "boltons.listutils.BarrelList.__len__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\listutils.py", 
+"method name": "__len__", 
+"call type": "transistively", 
+"call frequency": 43, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_listutils.py",
+"method name": "test_splay_list"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_listutils.py",
+"method name": "test_barrel_list"],
+] 
+],
+["method": "boltons.listutils.<listcomp>", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\listutils.py", 
+"method name": "<listcomp>", 
+"call type": "transistively", 
+"call frequency": 43, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_listutils.py",
+"method name": "test_splay_list"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_listutils.py",
+"method name": "test_barrel_list"],
+] 
+],
+["method": "boltons.listutils.BarrelList.insert", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\listutils.py", 
+"method name": "insert", 
+"call type": "transistively", 
+"call frequency": 7, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_listutils.py",
+"method name": "test_splay_list"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_listutils.py",
+"method name": "test_barrel_list"],
+] 
+],
+["method": "boltons.listutils.BarrelList._balance_list", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\listutils.py", 
+"method name": "_balance_list", 
+"call type": "transistively", 
+"call frequency": 14, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_listutils.py",
+"method name": "test_splay_list"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_listutils.py",
+"method name": "test_barrel_list"],
+] 
+],
+["method": "boltons.listutils.BarrelList._cur_size_limit", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\listutils.py", 
+"method name": "_cur_size_limit", 
+"call type": "transistively", 
+"call frequency": 14, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_listutils.py",
+"method name": "test_splay_list"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_listutils.py",
+"method name": "test_barrel_list"],
+] 
+],
+["method": "boltons.queueutils.SortedPriorityQueue.remove", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\queueutils.py", 
+"method name": "remove", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.listutils.BarrelList.__getitem__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\listutils.py", 
+"method name": "__getitem__", 
+"call type": "transistively", 
+"call frequency": 17, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_listutils.py",
+"method name": "test_splay_list"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_listutils.py",
+"method name": "test_barrel_list"],
+] 
+],
+["method": "boltons.listutils.BarrelList._translate_index", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\listutils.py", 
+"method name": "_translate_index", 
+"call type": "transistively", 
+"call frequency": 24, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_listutils.py",
+"method name": "test_splay_list"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_listutils.py",
+"method name": "test_barrel_list"],
+] 
+],
+["method": "boltons.queueutils.SortedPriorityQueue.__len__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\queueutils.py", 
+"method name": "__len__", 
+"call type": "transistively", 
+"call frequency": 8, 
+"other test call this function": [
+] 
+],
+["method": "boltons.queueutils.SortedPriorityQueue.pop", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\queueutils.py", 
+"method name": "pop", 
+"call type": "transistively", 
+"call frequency": 7, 
+"other test call this function": [
+] 
+],
+["method": "boltons.queueutils.SortedPriorityQueue._cull", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\queueutils.py", 
+"method name": "_cull", 
+"call type": "transistively", 
+"call frequency": 7, 
+"other test call this function": [
+] 
+],
+["method": "boltons.queueutils._pop_entry", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\queueutils.py", 
+"method name": "_pop_entry", 
+"call type": "transistively", 
+"call frequency": 7, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_queueutils.py",
+"method name": "test_heap_queue"],
+] 
+],
+["method": "boltons.listutils.BarrelList.pop", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\listutils.py", 
+"method name": "pop", 
+"call type": "transistively", 
+"call frequency": 7, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_listutils.py",
+"method name": "test_splay_list"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_listutils.py",
+"method name": "test_barrel_list"],
+] 
+]
+]
+}

@@ -1,0 +1,136 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_statsutils_histogram.py", 
+"test name": "test_norm_regression", 
+"metohd list": [
+["method": "tests.test_statsutils_histogram.test_norm_regression", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_statsutils_histogram.py", 
+"method name": "test_norm_regression", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.statsutils.Stats.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\statsutils.py", 
+"method name": "__init__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_statsutils.py",
+"method name": "test_stats_basic"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_statsutils_histogram.py",
+"method name": "test_check_sum"],
+] 
+],
+["method": "boltons.statsutils.<listcomp>", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\statsutils.py", 
+"method name": "<listcomp>", 
+"call type": "transistively", 
+"call frequency": 34, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_statsutils.py",
+"method name": "test_stats_basic"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_statsutils_histogram.py",
+"method name": "test_check_sum"],
+] 
+],
+["method": "boltons.statsutils._StatsProperty.__get__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\statsutils.py", 
+"method name": "__get__", 
+"call type": "transistively", 
+"call frequency": 17, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_statsutils.py",
+"method name": "test_stats_basic"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_statsutils_histogram.py",
+"method name": "test_check_sum"],
+] 
+],
+["method": "boltons.statsutils.Stats.format_histogram", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\statsutils.py", 
+"method name": "format_histogram", 
+"call type": "directly", 
+"call frequency": 4, 
+"other test call this function": [
+] 
+],
+["method": "boltons.statsutils.Stats.get_histogram_counts", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\statsutils.py", 
+"method name": "get_histogram_counts", 
+"call type": "transistively", 
+"call frequency": 4, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_statsutils_histogram.py",
+"method name": "test_check_sum"],
+] 
+],
+["method": "boltons.statsutils.Stats._get_bin_bounds", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\statsutils.py", 
+"method name": "_get_bin_bounds", 
+"call type": "transistively", 
+"call frequency": 3, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_statsutils_histogram.py",
+"method name": "test_check_sum"],
+] 
+],
+["method": "boltons.statsutils.Stats.get_quantile", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\statsutils.py", 
+"method name": "get_quantile", 
+"call type": "transistively", 
+"call frequency": 2, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_statsutils_histogram.py",
+"method name": "test_check_sum"],
+] 
+],
+["method": "boltons.statsutils.Stats._get_sorted_data", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\statsutils.py", 
+"method name": "_get_sorted_data", 
+"call type": "transistively", 
+"call frequency": 2, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_statsutils.py",
+"method name": "test_stats_basic"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_statsutils_histogram.py",
+"method name": "test_check_sum"],
+] 
+],
+["method": "boltons.statsutils._get_quantile", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\statsutils.py", 
+"method name": "_get_quantile", 
+"call type": "transistively", 
+"call frequency": 2, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_statsutils.py",
+"method name": "test_stats_basic"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_statsutils_histogram.py",
+"method name": "test_check_sum"],
+] 
+],
+["method": "boltons.statsutils.format_histogram_counts", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\statsutils.py", 
+"method name": "format_histogram_counts", 
+"call type": "transistively", 
+"call frequency": 4, 
+"other test call this function": [
+] 
+],
+["method": "boltons.statsutils.<lambda>", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\statsutils.py", 
+"method name": "<lambda>", 
+"call type": "transistively", 
+"call frequency": 20, 
+"other test call this function": [
+] 
+],
+["method": "boltons.statsutils.Stats._calc_min", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\statsutils.py", 
+"method name": "_calc_min", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

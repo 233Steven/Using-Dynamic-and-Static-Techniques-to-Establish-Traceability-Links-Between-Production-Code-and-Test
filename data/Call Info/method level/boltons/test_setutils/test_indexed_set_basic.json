@@ -1,0 +1,216 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py", 
+"test name": "test_indexed_set_basic", 
+"metohd list": [
+["method": "tests.test_setutils.test_indexed_set_basic", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py", 
+"method name": "test_indexed_set_basic", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.setutils.IndexedSet.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\setutils.py", 
+"method name": "__init__", 
+"call type": "directly", 
+"call frequency": 13, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_rsub"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_mutate"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_iset_index_method"],
+] 
+],
+["method": "boltons.setutils.IndexedSet.update", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\setutils.py", 
+"method name": "update", 
+"call type": "transistively", 
+"call frequency": 14, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_rsub"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_mutate"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_iset_index_method"],
+] 
+],
+["method": "boltons.setutils.IndexedSet.add", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\setutils.py", 
+"method name": "add", 
+"call type": "transistively", 
+"call frequency": 77, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_rsub"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_mutate"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_iset_index_method"],
+] 
+],
+["method": "boltons.setutils.IndexedSet.intersection", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\setutils.py", 
+"method name": "intersection", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "boltons.setutils.IndexedSet.__iter__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\setutils.py", 
+"method name": "__iter__", 
+"call type": "transistively", 
+"call frequency": 18, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_rsub"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_mutate"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_iset_index_method"],
+] 
+],
+["method": "boltons.setutils.from_iterable", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\setutils.py", 
+"method name": "from_iterable", 
+"call type": "transistively", 
+"call frequency": 6, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_rsub"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_mutate"],
+] 
+],
+["method": "boltons.setutils.<genexpr>", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\setutils.py", 
+"method name": "<genexpr>", 
+"call type": "transistively", 
+"call frequency": 151, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_rsub"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_mutate"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_iset_index_method"],
+] 
+],
+["method": "boltons.setutils.IndexedSet.__contains__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\setutils.py", 
+"method name": "__contains__", 
+"call type": "transistively", 
+"call frequency": 30, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_rsub"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_mutate"],
+] 
+],
+["method": "boltons.setutils.IndexedSet.__len__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\setutils.py", 
+"method name": "__len__", 
+"call type": "transistively", 
+"call frequency": 30, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_rsub"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_mutate"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_iset_index_method"],
+] 
+],
+["method": "boltons.setutils.IndexedSet.__ior__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\setutils.py", 
+"method name": "__ior__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.setutils.IndexedSet.__eq__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\setutils.py", 
+"method name": "__eq__", 
+"call type": "directly", 
+"call frequency": 4, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_rsub"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_mutate"],
+] 
+],
+["method": "boltons.setutils.IndexedSet.__getitem__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\setutils.py", 
+"method name": "__getitem__", 
+"call type": "directly", 
+"call frequency": 3, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_mutate"],
+] 
+],
+["method": "boltons.setutils.IndexedSet._get_real_index", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\setutils.py", 
+"method name": "_get_real_index", 
+"call type": "transistively", 
+"call frequency": 4, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_mutate"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_iset_index_method"],
+] 
+],
+["method": "boltons.setutils.IndexedSet.symmetric_difference", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\setutils.py", 
+"method name": "symmetric_difference", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.setutils.IndexedSet.union", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\setutils.py", 
+"method name": "union", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.setutils.IndexedSet.difference", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\setutils.py", 
+"method name": "difference", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_rsub"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_setutils.py",
+"method name": "test_indexed_set_mutate"],
+] 
+],
+["method": "boltons.setutils.IndexedSet.iter_slice", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\setutils.py", 
+"method name": "iter_slice", 
+"call type": "transistively", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "boltons.setutils.IndexedSet.__reversed__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\setutils.py", 
+"method name": "__reversed__", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}
