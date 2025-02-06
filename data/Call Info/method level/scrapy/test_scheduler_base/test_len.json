@@ -1,0 +1,14 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_scheduler_base.py", 
+"test name": "test_len", 
+"metohd list": [
+["method": "tests.test_scheduler_base.MinimalSchedulerTest.test_len", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_scheduler_base.py", 
+"method name": "test_len", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

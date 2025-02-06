@@ -1,0 +1,34 @@
+{
+"test root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py", 
+"test name": "test_zipped_paths_extracted", 
+"metohd list": [
+["method": "tests.test_utils.TestExtractZippedPaths.test_zipped_paths_extracted", 
+"method root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py", 
+"method name": "test_zipped_paths_extracted", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "requests.utils.extract_zipped_paths", 
+"method root": "F:\myPythonProjects\projects_new\requests\requests\utils.py", 
+"method name": "extract_zipped_paths", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_lowlevel.py",
+"method name": "test_use_proxy_from_environment"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_requests.py",
+"method name": "test_invalid_ssl_certificate_files"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_requests.py",
+"method name": "test_certificate_failure"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py",
+"method name": "test_invalid"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py",
+"method name": "test_unzipped_paths_unchanged"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py",
+"method name": "test_invalid_unc_path"],
+] 
+]
+]
+}

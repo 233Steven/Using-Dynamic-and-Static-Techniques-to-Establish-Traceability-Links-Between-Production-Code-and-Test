@@ -1,0 +1,36 @@
+{
+"test root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py", 
+"test name": "test_guess_filename_valid", 
+"metohd list": [
+["method": "tests.test_utils.TestGuessFilename.test_guess_filename_valid", 
+"method root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py", 
+"method name": "test_guess_filename_valid", 
+"call type": "transistively", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "requests.utils.guess_filename", 
+"method root": "F:\myPythonProjects\projects_new\requests\requests\utils.py", 
+"method name": "guess_filename", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_requests.py",
+"method name": "test_invalid_files_input"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_requests.py",
+"method name": "test_unicode_method_name"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_requests.py",
+"method name": "test_unicode_method_name_with_request_object"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_requests.py",
+"method name": "test_prepared_request_with_file_is_pickleable"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_requests.py",
+"method name": "test_can_send_objects_with_files"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_requests.py",
+"method name": "test_can_send_file_object_with_non_string_filename"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py",
+"method name": "test_guess_filename_invalid"],
+] 
+]
+]
+}

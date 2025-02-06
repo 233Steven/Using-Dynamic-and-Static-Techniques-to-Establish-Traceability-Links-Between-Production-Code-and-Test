@@ -1,0 +1,26 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_utils_sitemap.py", 
+"test name": "test_sitemap_urls_from_robots", 
+"metohd list": [
+["method": "tests.test_utils_sitemap.SitemapTest.test_sitemap_urls_from_robots", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_utils_sitemap.py", 
+"method name": "test_sitemap_urls_from_robots", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "scrapy.utils.sitemap.sitemap_urls_from_robots", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\scrapy\spiders\sitemap.py", 
+"method name": "sitemap_urls_from_robots", 
+"call type": "directly", 
+"call frequency": 5, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_spider.py",
+"method name": "test_get_sitemap_urls_from_robotstxt"],
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_utils_sitemap.py",
+"method name": "test_sitemap"],
+] 
+]
+]
+}

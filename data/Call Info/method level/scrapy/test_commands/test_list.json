@@ -1,0 +1,22 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_commands.py", 
+"test name": "test_list", 
+"metohd list": [
+["method": "tests.test_commands.GenspiderCommandTest.test_list", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_commands.py", 
+"method name": "test_list", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "tests.test_commands.MiscCommandsTest.test_list", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_commands.py", 
+"method name": "test_list", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

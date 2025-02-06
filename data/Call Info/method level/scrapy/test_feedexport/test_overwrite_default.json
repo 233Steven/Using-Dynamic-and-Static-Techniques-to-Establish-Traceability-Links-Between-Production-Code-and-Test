@@ -1,0 +1,30 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_feedexport.py", 
+"test name": "test_overwrite_default", 
+"metohd list": [
+["method": "tests.test_feedexport.StdoutFeedStorageTest.test_overwrite_default", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_feedexport.py", 
+"method name": "test_overwrite_default", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "scrapy.extensions.feedexport.StdoutFeedStorage.__init__", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\scrapy\extensions\feedexport.py", 
+"method name": "__init__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_feedexport.py",
+"method name": "test_overwrite"],
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_feedexport.py",
+"method name": "test_store"],
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_feedexport.py",
+"method name": "test_overwrite_true"],
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_feedexport.py",
+"method name": "test_stats_multiple_file"],
+] 
+]
+]
+}

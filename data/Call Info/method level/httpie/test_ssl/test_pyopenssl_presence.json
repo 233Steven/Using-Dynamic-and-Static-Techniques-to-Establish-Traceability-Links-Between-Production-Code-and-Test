@@ -1,0 +1,14 @@
+{
+"test root": "F:\myPythonProjects\projects_new\httpie\tests\test_ssl.py", 
+"test name": "test_pyopenssl_presence", 
+"metohd list": [
+["method": "tests.test_ssl.test_pyopenssl_presence", 
+"method root": "F:\myPythonProjects\projects_new\httpie\tests\test_ssl.py", 
+"method name": "test_pyopenssl_presence", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

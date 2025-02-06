@@ -1,0 +1,30 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_feedexport.py", 
+"test name": "test_uri_auth_quote", 
+"metohd list": [
+["method": "tests.test_feedexport.FTPFeedStorageTest.test_uri_auth_quote", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_feedexport.py", 
+"method name": "test_uri_auth_quote", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "scrapy.extensions.feedexport.FTPFeedStorage.__init__", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\scrapy\extensions\feedexport.py", 
+"method name": "__init__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_feedexport.py",
+"method name": "test_append"],
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_feedexport.py",
+"method name": "test_overwrite"],
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_feedexport.py",
+"method name": "test_append_active_mode"],
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_feedexport.py",
+"method name": "test_overwrite_active_mode"],
+] 
+]
+]
+}

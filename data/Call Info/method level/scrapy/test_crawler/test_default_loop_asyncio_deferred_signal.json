@@ -1,0 +1,14 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_crawler.py", 
+"test name": "test_default_loop_asyncio_deferred_signal", 
+"metohd list": [
+["method": "tests.test_crawler.CrawlerProcessSubprocess.test_default_loop_asyncio_deferred_signal", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_crawler.py", 
+"method name": "test_default_loop_asyncio_deferred_signal", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

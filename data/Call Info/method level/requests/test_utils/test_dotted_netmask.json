@@ -1,0 +1,34 @@
+{
+"test root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py", 
+"test name": "test_dotted_netmask", 
+"metohd list": [
+["method": "tests.test_utils.test_dotted_netmask", 
+"method root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py", 
+"method name": "test_dotted_netmask", 
+"call type": "transistively", 
+"call frequency": 3, 
+"other test call this function": [
+] 
+],
+["method": "requests.utils.dotted_netmask", 
+"method root": "F:\myPythonProjects\projects_new\requests\requests\utils.py", 
+"method name": "dotted_netmask", 
+"call type": "directly", 
+"call frequency": 3, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py",
+"method name": "test_valid"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py",
+"method name": "test_invalid"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py",
+"method name": "test_bypass"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py",
+"method name": "test_not_bypass"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py",
+"method name": "test_should_bypass_proxies"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py",
+"method name": "test_should_bypass_proxies_no_proxy"],
+] 
+]
+]
+}

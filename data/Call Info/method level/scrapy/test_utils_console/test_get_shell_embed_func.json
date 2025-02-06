@@ -1,0 +1,30 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_utils_console.py", 
+"test name": "test_get_shell_embed_func", 
+"metohd list": [
+["method": "tests.test_utils_console.UtilsConsoleTestCase.test_get_shell_embed_func", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_utils_console.py", 
+"method name": "test_get_shell_embed_func", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "scrapy.utils.console.get_shell_embed_func", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\scrapy\utils\console.py", 
+"method name": "get_shell_embed_func", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "scrapy.utils.console._embed_standard_shell", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\scrapy\utils\console.py", 
+"method name": "_embed_standard_shell", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

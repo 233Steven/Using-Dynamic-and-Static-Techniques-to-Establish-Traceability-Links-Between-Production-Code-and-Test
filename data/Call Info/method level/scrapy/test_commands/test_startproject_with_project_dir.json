@@ -1,0 +1,14 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_commands.py", 
+"test name": "test_startproject_with_project_dir", 
+"metohd list": [
+["method": "tests.test_commands.StartprojectTest.test_startproject_with_project_dir", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_commands.py", 
+"method name": "test_startproject_with_project_dir", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

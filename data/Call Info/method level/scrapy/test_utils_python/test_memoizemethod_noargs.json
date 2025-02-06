@@ -1,0 +1,32 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_utils_python.py", 
+"test name": "test_memoizemethod_noargs", 
+"metohd list": [
+["method": "tests.test_utils_python.MemoizedMethodTest.test_memoizemethod_noargs", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_utils_python.py", 
+"method name": "test_memoizemethod_noargs", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "scrapy.utils.python.memoizemethod_noargs", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\scrapy\utils\python.py", 
+"method name": "memoizemethod_noargs", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_addons.py",
+"method name": "test_update_settings"],
+] 
+],
+["method": "scrapy.utils.python.A.new_method", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\scrapy\utils\python.py", 
+"method name": "new_method", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+]
+]
+}

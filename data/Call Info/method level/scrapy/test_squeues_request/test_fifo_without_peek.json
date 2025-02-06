@@ -1,0 +1,30 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_squeues_request.py", 
+"test name": "test_fifo_without_peek", 
+"metohd list": [
+["method": "tests.test_squeues_request.PickleFifoDiskQueueRequestTest.test_fifo_without_peek", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_squeues_request.py", 
+"method name": "test_fifo_without_peek", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "tests.test_squeues_request.MarshalFifoDiskQueueRequestTest.test_fifo_without_peek", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_squeues_request.py", 
+"method name": "test_fifo_without_peek", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "tests.test_squeues_request.FifoMemoryQueueRequestTest.test_fifo_without_peek", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_squeues_request.py", 
+"method name": "test_fifo_without_peek", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

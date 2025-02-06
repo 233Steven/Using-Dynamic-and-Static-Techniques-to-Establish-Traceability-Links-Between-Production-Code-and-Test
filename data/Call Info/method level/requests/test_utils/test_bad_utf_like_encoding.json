@@ -1,0 +1,32 @@
+{
+"test root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py", 
+"test name": "test_bad_utf_like_encoding", 
+"metohd list": [
+["method": "tests.test_utils.TestGuessJSONUTF.test_bad_utf_like_encoding", 
+"method root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py", 
+"method name": "test_bad_utf_like_encoding", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "requests.utils.guess_json_utf", 
+"method root": "F:\myPythonProjects\projects_new\requests\requests\utils.py", 
+"method name": "guess_json_utf", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_lowlevel.py",
+"method name": "test_json_decode_compatibility_for_alt_utf_encodings"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_requests.py",
+"method name": "test_json_decode_compatibility"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_requests.py",
+"method name": "test_json_decode_persists_doc_attr"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py",
+"method name": "test_encoded"],
+["method root": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py",
+"method name": "test_guess_by_bom"],
+] 
+]
+]
+}

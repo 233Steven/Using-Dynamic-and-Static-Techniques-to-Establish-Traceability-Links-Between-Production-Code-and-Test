@@ -1,0 +1,26 @@
+{
+"test root": "F:\myPythonProjects\projects_new\httpie\tests\test_config.py", 
+"test name": "test_windows_config_dir", 
+"metohd list": [
+["method": "tests.test_config.test_windows_config_dir", 
+"method root": "F:\myPythonProjects\projects_new\httpie\tests\test_config.py", 
+"method name": "test_windows_config_dir", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "httpie.config.get_default_config_dir", 
+"method root": "F:\myPythonProjects\projects_new\httpie\httpie\config.py", 
+"method name": "get_default_config_dir", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\httpie\tests\test_auth.py",
+"method name": "test_basic_auth"],
+["method root": "F:\myPythonProjects\projects_new\httpie\tests\test_config.py",
+"method name": "test_custom_config_dir"],
+] 
+]
+]
+}

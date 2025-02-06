@@ -1,0 +1,14 @@
+{
+"test root": "F:\myPythonProjects\projects_new\httpie\tests\utils\matching\test_matching.py", 
+"test name": "test_assert_output_matches_body_n", 
+"metohd list": [
+["method": "tests.utils.matching.test_matching.test_assert_output_matches_body_n", 
+"method root": "F:\myPythonProjects\projects_new\httpie\httpie\utils.py", 
+"method name": "test_assert_output_matches_body_n", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

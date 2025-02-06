@@ -1,0 +1,36 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_utils_trackref.py", 
+"test name": "test_print_live_refs_empty", 
+"metohd list": [
+["method": "tests.test_utils_trackref.TrackrefTestCase.test_print_live_refs_empty", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_utils_trackref.py", 
+"method name": "test_print_live_refs_empty", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "scrapy.utils.trackref.print_live_refs", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\scrapy\utils\trackref.py", 
+"method name": "print_live_refs", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_utils_trackref.py",
+"method name": "test_print_live_refs_with_objects"],
+] 
+],
+["method": "scrapy.utils.trackref.format_live_refs", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\scrapy\utils\trackref.py", 
+"method name": "format_live_refs", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_utils_trackref.py",
+"method name": "test_format_live_refs"],
+["method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_utils_trackref.py",
+"method name": "test_print_live_refs_with_objects"],
+] 
+]
+]
+}

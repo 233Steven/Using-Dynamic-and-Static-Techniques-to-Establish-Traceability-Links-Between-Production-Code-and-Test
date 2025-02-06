@@ -1,0 +1,14 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_commands.py", 
+"test name": "test_startproject_permissions_from_read_only", 
+"metohd list": [
+["method": "tests.test_commands.StartprojectTemplatesTest.test_startproject_permissions_from_read_only", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_commands.py", 
+"method name": "test_startproject_permissions_from_read_only", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

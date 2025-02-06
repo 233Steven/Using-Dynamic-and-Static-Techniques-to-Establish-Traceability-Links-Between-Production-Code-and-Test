@@ -1,0 +1,22 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_spidermiddleware_offsite.py", 
+"test name": "test_get_host_regex", 
+"metohd list": [
+["method": "tests.test_spidermiddleware_offsite.TestOffsiteMiddleware5.test_get_host_regex", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_spidermiddleware_offsite.py", 
+"method name": "test_get_host_regex", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "tests.test_spidermiddleware_offsite.TestOffsiteMiddleware6.test_get_host_regex", 
+"method root": "F:\myPythonProjects\projects_new\scrapy\tests\test_spidermiddleware_offsite.py", 
+"method name": "test_get_host_regex", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}
