@@ -1,0 +1,14 @@
+{
+"test root": "F:\myPythonProjects\projects_new\flask\tests\test_basic.py", 
+"test name": "test_request_locals", 
+"metohd list": [
+["method": "test_basic.test_request_locals", 
+"method root": "F:\myPythonProjects\projects_new\flask\tests\test_basic.py", 
+"method name": "test_request_locals", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

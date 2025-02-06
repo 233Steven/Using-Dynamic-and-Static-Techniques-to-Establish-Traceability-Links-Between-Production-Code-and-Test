@@ -1,0 +1,62 @@
+{
+"test root": "F:\myPythonProjects\projects_new\flask\tests\test_testing.py", 
+"test name": "test_cli_runner_class", 
+"metohd list": [
+["method": "test_testing.test_cli_runner_class", 
+"method root": "F:\myPythonProjects\projects_new\flask\tests\test_testing.py", 
+"method name": "test_cli_runner_class", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "flask.app.Flask.test_cli_runner", 
+"method root": "F:\myPythonProjects\projects_new\flask\src\flask\app.py", 
+"method name": "test_cli_runner", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_cli.py",
+"method name": "test_cli_blueprints"],
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_cli.py",
+"method name": "test_cli_empty"],
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_testing.py",
+"method name": "test_cli_invoke"],
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_testing.py",
+"method name": "test_cli_custom_obj"],
+] 
+],
+["method": "flask.testing.FlaskCliRunner.__init__", 
+"method root": "F:\myPythonProjects\projects_new\flask\src\flask\testing.py", 
+"method name": "__init__", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_cli.py",
+"method name": "test_cli_blueprints"],
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_cli.py",
+"method name": "test_cli_empty"],
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_testing.py",
+"method name": "test_cli_invoke"],
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_testing.py",
+"method name": "test_cli_custom_obj"],
+] 
+],
+["method": "test_testing.SubRunner", 
+"method root": "F:\myPythonProjects\projects_new\flask\tests\test_testing.py", 
+"method name": "SubRunner", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "flask.testing.SubRunner.__init__", 
+"method root": "F:\myPythonProjects\projects_new\flask\src\flask\testing.py", 
+"method name": "__init__", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

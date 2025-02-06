@@ -1,0 +1,50 @@
+{
+"test root": "F:\myPythonProjects\projects_new\flask\tests\test_helpers.py", 
+"test name": "test_abort_no_app", 
+"metohd list": [
+["method": "test_helpers.test_abort_no_app", 
+"method root": "F:\myPythonProjects\projects_new\flask\tests\test_helpers.py", 
+"method name": "test_abort_no_app", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "flask.helpers.abort", 
+"method root": "F:\myPythonProjects\projects_new\flask\src\flask\helpers.py", 
+"method name": "abort", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_basic.py",
+"method name": "test_error_handling"],
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_basic.py",
+"method name": "test_http_error_subclass_handling"],
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_basic.py",
+"method name": "test_trap_bad_request_key_error"],
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_basic.py",
+"method name": "test_trapping_of_all_http_exceptions"],
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_blueprints.py",
+"method name": "test_blueprint_specific_error_handling"],
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_blueprints.py",
+"method name": "test_blueprint_app_error_handling"],
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_blueprints.py",
+"method name": "test_nested_blueprint"],
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_blueprints.py",
+"method name": "test_blueprint_renaming"],
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_helpers.py",
+"method name": "test_abort_with_app"],
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_regression.py",
+"method name": "test_aborting"],
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_user_error_handler.py",
+"method name": "test_error_handler_no_match"],
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_user_error_handler.py",
+"method name": "test_handle_class_or_code"],
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_user_error_handler.py",
+"method name": "test_handle_generic_http"],
+["method root": "F:\myPythonProjects\projects_new\flask\tests\test_user_error_handler.py",
+"method name": "test_handle_generic"],
+] 
+]
+]
+}
