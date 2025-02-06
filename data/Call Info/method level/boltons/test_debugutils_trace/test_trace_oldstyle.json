@@ -1,0 +1,102 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py", 
+"test name": "test_trace_oldstyle", 
+"metohd list": [
+["method": "tests.test_debugutils_trace.test_trace_oldstyle", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py", 
+"method name": "test_trace_oldstyle", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.debugutils.wrap_trace", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\debugutils.py", 
+"method name": "wrap_trace", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py",
+"method name": "test_trace_dict"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py",
+"method name": "test_trace_bytes"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py",
+"method name": "test_trace_exc"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py",
+"method name": "test_trace_which"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py",
+"method name": "test_trace_namedtuple"],
+] 
+],
+["method": "boltons.debugutils.wrap_method", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\debugutils.py", 
+"method name": "wrap_method", 
+"call type": "transistively", 
+"call frequency": 19, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py",
+"method name": "test_trace_dict"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py",
+"method name": "test_trace_bytes"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py",
+"method name": "test_trace_exc"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py",
+"method name": "test_trace_namedtuple"],
+] 
+],
+["method": "boltons.debugutils.Oldie.__getattribute__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\debugutils.py", 
+"method name": "__getattribute__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.debugutils.trace_print_hook", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\debugutils.py", 
+"method name": "trace_print_hook", 
+"call type": "transistively", 
+"call frequency": 5, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py",
+"method name": "test_trace_dict"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py",
+"method name": "test_trace_bytes"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py",
+"method name": "test_trace_exc"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py",
+"method name": "test_trace_which"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py",
+"method name": "test_trace_namedtuple"],
+] 
+],
+["method": "boltons.debugutils.wrapped", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\debugutils.py", 
+"method name": "wrapped", 
+"call type": "transistively", 
+"call frequency": 2, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py",
+"method name": "test_trace_dict"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py",
+"method name": "test_trace_bytes"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py",
+"method name": "test_trace_namedtuple"],
+] 
+],
+["method": "boltons.debugutils.<listcomp>", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\debugutils.py", 
+"method name": "<listcomp>", 
+"call type": "transistively", 
+"call frequency": 4, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py",
+"method name": "test_trace_dict"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py",
+"method name": "test_trace_bytes"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_debugutils_trace.py",
+"method name": "test_trace_namedtuple"],
+] 
+]
+]
+}

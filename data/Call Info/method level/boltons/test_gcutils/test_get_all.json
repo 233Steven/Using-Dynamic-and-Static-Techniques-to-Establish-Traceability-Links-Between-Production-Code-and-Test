@@ -1,0 +1,30 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_gcutils.py", 
+"test name": "test_get_all", 
+"metohd list": [
+["method": "tests.test_gcutils.test_get_all", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_gcutils.py", 
+"method name": "test_get_all", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.gcutils.get_all", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\gcutils.py", 
+"method name": "get_all", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "boltons.gcutils.<listcomp>", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\gcutils.py", 
+"method name": "<listcomp>", 
+"call type": "transistively", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+]
+]
+}

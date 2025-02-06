@@ -1,0 +1,30 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_gcutils.py", 
+"test name": "test_toggle_gc_postcollect", 
+"metohd list": [
+["method": "tests.test_gcutils.test_toggle_gc_postcollect", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_gcutils.py", 
+"method name": "test_toggle_gc_postcollect", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.gcutils.GCToggler.__enter__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\gcutils.py", 
+"method name": "__enter__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.gcutils.GCToggler.__exit__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\gcutils.py", 
+"method name": "__exit__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

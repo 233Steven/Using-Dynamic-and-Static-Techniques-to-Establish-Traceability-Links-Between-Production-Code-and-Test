@@ -1,0 +1,190 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_cacheutils.py", 
+"test name": "test_threshold_counter", 
+"metohd list": [
+["method": "tests.test_cacheutils.test_threshold_counter", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_cacheutils.py", 
+"method name": "test_threshold_counter", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.ThresholdCounter.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "__init__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.ThresholdCounter.add", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "add", 
+"call type": "directly", 
+"call frequency": 12, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.ThresholdCounter.items", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "items", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.ThresholdCounter.iteritems", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "iteritems", 
+"call type": "transistively", 
+"call frequency": 14, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.ThresholdCounter.update", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "update", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.ThresholdCounter.<listcomp>", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "<listcomp>", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.ThresholdCounter.get", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "get", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.ThresholdCounter.__getitem__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "__getitem__", 
+"call type": "transistively", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.ThresholdCounter.__contains__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "__contains__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.ThresholdCounter.elements", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "elements", 
+"call type": "directly", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.ThresholdCounter.threshold", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "threshold", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.ThresholdCounter.get_common_count", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "get_common_count", 
+"call type": "directly", 
+"call frequency": 3, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.<listcomp>", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "<listcomp>", 
+"call type": "transistively", 
+"call frequency": 3, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.ThresholdCounter.get_uncommon_count", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "get_uncommon_count", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.ThresholdCounter.get_commonality", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "get_commonality", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.ThresholdCounter.most_common", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "most_common", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.<lambda>", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "<lambda>", 
+"call type": "transistively", 
+"call frequency": 2, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.ThresholdCounter.__len__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "__len__", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.ThresholdCounter.keys", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "keys", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.ThresholdCounter.iterkeys", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "iterkeys", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.ThresholdCounter.values", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "values", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.cacheutils.ThresholdCounter.itervalues", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\cacheutils.py", 
+"method name": "itervalues", 
+"call type": "transistively", 
+"call frequency": 3, 
+"other test call this function": [
+] 
+]
+]
+}
