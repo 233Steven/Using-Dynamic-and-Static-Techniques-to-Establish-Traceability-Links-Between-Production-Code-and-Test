@@ -1,0 +1,12 @@
+{
+"test root": "F:\myPythonProjects\projects_new\scrapy\tests\test_dependencies.py", 
+"module list": [
+["module": "test_dependencies", 
+"module root": "F:\myPythonProjects\projects_new\scrapy\tests\test_dependencies.py", 
+"call deep": [4, 5, 7, 8], 
+"call frequency": 4, 
+"other test module call this production": [
+] 
+]
+]
+}
