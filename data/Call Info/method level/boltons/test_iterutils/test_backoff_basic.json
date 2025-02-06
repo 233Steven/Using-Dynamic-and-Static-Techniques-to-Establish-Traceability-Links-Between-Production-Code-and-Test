@@ -1,0 +1,44 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_iterutils.py", 
+"test name": "test_backoff_basic", 
+"metohd list": [
+["method": "tests.test_iterutils.test_backoff_basic", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_iterutils.py", 
+"method name": "test_backoff_basic", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.iterutils.backoff", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\iterutils.py", 
+"method name": "backoff", 
+"call type": "directly", 
+"call frequency": 3, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_iterutils.py",
+"method name": "test_backoff_zero_start"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_iterutils.py",
+"method name": "test_backoff_validation"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_iterutils.py",
+"method name": "test_backoff_jitter"],
+] 
+],
+["method": "boltons.iterutils.backoff_iter", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\iterutils.py", 
+"method name": "backoff_iter", 
+"call type": "transistively", 
+"call frequency": 13, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_iterutils.py",
+"method name": "test_backoff_repeat"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_iterutils.py",
+"method name": "test_backoff_zero_start"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_iterutils.py",
+"method name": "test_backoff_validation"],
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_iterutils.py",
+"method name": "test_backoff_jitter"],
+] 
+]
+]
+}

@@ -1,0 +1,42 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_iterutils.py", 
+"test name": "test_seqguiderator", 
+"metohd list": [
+["method": "tests.test_iterutils.test_seqguiderator", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_iterutils.py", 
+"method name": "test_seqguiderator", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.iterutils.SequentialGUIDerator.__init__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\iterutils.py", 
+"method name": "__init__", 
+"call type": "directly", 
+"call frequency": 10001, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_iterutils.py",
+"method name": "test_empty_iterables"],
+] 
+],
+["method": "boltons.iterutils.SequentialGUIDerator.reseed", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\iterutils.py", 
+"method name": "reseed", 
+"call type": "transistively", 
+"call frequency": 20002, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_iterutils.py",
+"method name": "test_empty_iterables"],
+] 
+],
+["method": "boltons.iterutils.SequentialGUIDerator.__next__", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\iterutils.py", 
+"method name": "__next__", 
+"call type": "directly", 
+"call frequency": 10002, 
+"other test call this function": [
+] 
+]
+]
+}

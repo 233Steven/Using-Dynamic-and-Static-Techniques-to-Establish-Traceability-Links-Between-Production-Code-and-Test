@@ -1,0 +1,14 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_namedutils.py", 
+"test name": "test_namedlist", 
+"metohd list": [
+["method": "tests.test_namedutils.test_namedlist", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_namedutils.py", 
+"method name": "test_namedlist", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}

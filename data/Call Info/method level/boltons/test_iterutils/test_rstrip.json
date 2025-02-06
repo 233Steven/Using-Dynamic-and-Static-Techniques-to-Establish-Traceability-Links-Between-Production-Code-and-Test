@@ -1,0 +1,32 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_iterutils.py", 
+"test name": "test_rstrip", 
+"metohd list": [
+["method": "tests.test_iterutils.test_rstrip", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_iterutils.py", 
+"method name": "test_rstrip", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.iterutils.rstrip", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\iterutils.py", 
+"method name": "rstrip", 
+"call type": "directly", 
+"call frequency": 3, 
+"other test call this function": [
+] 
+],
+["method": "boltons.iterutils.rstrip_iter", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\iterutils.py", 
+"method name": "rstrip_iter", 
+"call type": "transistively", 
+"call frequency": 15, 
+"other test call this function": [
+["method root": "F:\myPythonProjects\projects_new\boltons\tests\test_iterutils.py",
+"method name": "test_strip"],
+] 
+]
+]
+}

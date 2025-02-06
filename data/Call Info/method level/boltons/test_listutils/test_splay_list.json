@@ -1,0 +1,30 @@
+{
+"test root": "F:\myPythonProjects\projects_new\boltons\tests\test_listutils.py", 
+"test name": "test_splay_list", 
+"metohd list": [
+["method": "tests.test_listutils.test_splay_list", 
+"method root": "F:\myPythonProjects\projects_new\boltons\tests\test_listutils.py", 
+"method name": "test_splay_list", 
+"call type": "transistively", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.listutils.SplayList.swap", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\listutils.py", 
+"method name": "swap", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+],
+["method": "boltons.listutils.SplayList.shift", 
+"method root": "F:\myPythonProjects\projects_new\boltons\boltons\listutils.py", 
+"method name": "shift", 
+"call type": "directly", 
+"call frequency": 1, 
+"other test call this function": [
+] 
+]
+]
+}
