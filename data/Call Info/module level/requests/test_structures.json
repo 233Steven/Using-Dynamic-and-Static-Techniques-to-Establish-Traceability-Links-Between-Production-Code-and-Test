@@ -1,0 +1,29 @@
+{
+"test root": "F:\myPythonProjects\projects_new\requests\tests\test_structures.py", 
+"module list": [
+["module": "test_structures", 
+"module root": "F:\myPythonProjects\projects_new\requests\tests\test_structures.py", 
+"call deep": [-1, 0], 
+"call frequency": 2, 
+"other test module call this production": [
+] 
+],
+["module": "structures", 
+"module root": "F:\myPythonProjects\projects_new\requests\requests\structures.py", 
+"call deep": [9, 1], 
+"call frequency": 2, 
+"other test module call this production": [
+["module": "F:\myPythonProjects\projects_new\requests\tests\test_requests.py"],
+["module": "F:\myPythonProjects\projects_new\requests\tests\test_testserver.py"],
+["module": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py"],
+] 
+],
+["module": "setup", 
+"module root": "F:\myPythonProjects\projects_new\requests\setup.py", 
+"call deep": [8], 
+"call frequency": 1, 
+"other test module call this production": [
+] 
+]
+]
+}

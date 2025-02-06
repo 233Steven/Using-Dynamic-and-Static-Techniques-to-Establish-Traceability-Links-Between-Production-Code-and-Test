@@ -1,0 +1,120 @@
+{
+"test root": "F:\myPythonProjects\projects_new\requests\tests\test_requests.py", 
+"module list": [
+["module": "hooks", 
+"module root": "F:\myPythonProjects\projects_new\requests\requests\hooks.py", 
+"call deep": [1, 2, 0], 
+"call frequency": 3, 
+"other test module call this production": [
+["module": "F:\myPythonProjects\projects_new\requests\tests\test_hooks.py"],
+["module": "F:\myPythonProjects\projects_new\requests\tests\test_testserver.py"],
+] 
+],
+["module": "cookies", 
+"module root": "F:\myPythonProjects\projects_new\requests\requests\cookies.py", 
+"call deep": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13], 
+"call frequency": 13, 
+"other test module call this production": [
+["module": "F:\myPythonProjects\projects_new\requests\tests\test_testserver.py"],
+["module": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py"],
+] 
+],
+["module": "adapters", 
+"module root": "F:\myPythonProjects\projects_new\requests\requests\adapters.py", 
+"call deep": [1, 2, 3, 4, 5], 
+"call frequency": 5, 
+"other test module call this production": [
+["module": "F:\myPythonProjects\projects_new\requests\tests\test_testserver.py"],
+] 
+],
+["module": "exceptions", 
+"module root": "F:\myPythonProjects\projects_new\requests\requests\exceptions.py", 
+"call deep": [2, 3, 5, 6, 7, 9], 
+"call frequency": 6, 
+"other test module call this production": [
+["module": "F:\myPythonProjects\projects_new\requests\tests\test_testserver.py"],
+["module": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py"],
+] 
+],
+["module": "structures", 
+"module root": "F:\myPythonProjects\projects_new\requests\requests\structures.py", 
+"call deep": [1, 2, 3, 4, 8], 
+"call frequency": 5, 
+"other test module call this production": [
+["module": "F:\myPythonProjects\projects_new\requests\tests\test_structures.py"],
+["module": "F:\myPythonProjects\projects_new\requests\tests\test_testserver.py"],
+["module": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py"],
+] 
+],
+["module": "auth", 
+"module root": "F:\myPythonProjects\projects_new\requests\requests\auth.py", 
+"call deep": [1, 6, 7, 8], 
+"call frequency": 4, 
+"other test module call this production": [
+] 
+],
+["module": "sessions", 
+"module root": "F:\myPythonProjects\projects_new\requests\requests\sessions.py", 
+"call deep": [1, 2, 3, 4, 5, 6, 7, 8], 
+"call frequency": 8, 
+"other test module call this production": [
+["module": "F:\myPythonProjects\projects_new\requests\tests\test_testserver.py"],
+] 
+],
+["module": "test_requests", 
+"module root": "F:\myPythonProjects\projects_new\requests\tests\test_requests.py", 
+"call deep": [1, 2, 3, 4, 5, 6, 9, 10, -1, 0], 
+"call frequency": 10, 
+"other test module call this production": [
+] 
+],
+["module": "_internal_utils", 
+"module root": "F:\myPythonProjects\projects_new\requests\requests\_internal_utils.py", 
+"call deep": [7], 
+"call frequency": 1, 
+"other test module call this production": [
+["module": "F:\myPythonProjects\projects_new\requests\tests\test_testserver.py"],
+["module": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py"],
+] 
+],
+["module": "models", 
+"module root": "F:\myPythonProjects\projects_new\requests\requests\models.py", 
+"call deep": [1, 2, 3, 4, 5, 6, 7, 8], 
+"call frequency": 8, 
+"other test module call this production": [
+["module": "F:\myPythonProjects\projects_new\requests\tests\test_testserver.py"],
+] 
+],
+["module": "conftest", 
+"module root": "F:\myPythonProjects\projects_new\requests\tests\conftest.py", 
+"call deep": [1, 7, 8], 
+"call frequency": 3, 
+"other test module call this production": [
+] 
+],
+["module": "utils", 
+"module root": "F:\myPythonProjects\projects_new\requests\requests\utils.py", 
+"call deep": [2, 3, 4, 5, 6, 7, 8], 
+"call frequency": 7, 
+"other test module call this production": [
+["module": "F:\myPythonProjects\projects_new\requests\tests\test_testserver.py"],
+["module": "F:\myPythonProjects\projects_new\requests\tests\test_utils.py"],
+] 
+],
+["module": "compat", 
+"module root": "F:\myPythonProjects\projects_new\requests\requests\compat.py", 
+"call deep": [5], 
+"call frequency": 1, 
+"other test module call this production": [
+] 
+],
+["module": "api", 
+"module root": "F:\myPythonProjects\projects_new\requests\requests\api.py", 
+"call deep": [1, 2], 
+"call frequency": 2, 
+"other test module call this production": [
+["module": "F:\myPythonProjects\projects_new\requests\tests\test_testserver.py"],
+] 
+]
+]
+}
